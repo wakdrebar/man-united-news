@@ -1,0 +1,26 @@
+{
+ "run": "2026-11-12T12:07:22.838531+00:00",
+ "new": 1,
+ "sources": [
+  {
+   "source": "BBC Sport",
+   "ok": true,
+   "items": 24
+  },
+  {
+   "source": "The Guardian",
+   "ok": true,
+   "items": 20
+  },
+  {
+   "source": "Manchester Evening News",
+   "ok": true,
+   "items": 25
+  },
+  {
+   "source": "Sky Sports",
+   "ok": true,
+   "items": 4
+  }
+ ]
+}

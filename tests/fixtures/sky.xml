@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/rss/rssRender.xsl"?>
+    <rss version='2.0'>
+    <channel>
+       <title>SkySports | News</title>
+       <link>http://www.skysports.com</link>
+       <description>Sports News</description>
+       <language>en-gb</language>
+       <lastBuildDate>Thu, 12 Nov 2026 12:06:54 GMT</lastBuildDate>
+       <copyright>Copyright 2026, BSKYB. All Rights Reserved.</copyright>
+       <category></category>
+       <image>
+            <title>Sky Sports</title>
+            <url>https://www.skysports.com/images/site/ss-logo-07.gif</url>
+            <link>https://www.skysports.com</link>
+       </image>
+       <ttl>120</ttl>
+       	<item>
+           <title><![CDATA[Pollock starts as England ring changes for Japan clash]]></title>
+           <description><![CDATA[Henry Pollock, Max Ojomoh and Will Joseph will all start for England in Saturday's Nations Championship Test vs Japan as part of 10 changes. ]]></description>
+           <link>https://www.skysports.com/rugby-union/news/12040/13611431/nations-championship-henry-pollock-max-ojomoh-will-joseph-start-for-england-vs-japan-as-part-of-10-changes</link>
+           <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+           <category>News Story</category>
+           <enclosure type="image/jpg" url="https://e2.365dm.com/26/11/1920x1080/skysports-henry-pollock-england_7404886.jpg?20261112112637" length="123456" />
+      </item>
+      	<item>
+           <title><![CDATA[Racing Bulls confirm 2027 line-up]]></title>
+           <description><![CDATA[Racing Bulls have confirmed Liam Lawson and Arvid Lindblad will be retained for the 2027 Formula 1 season.]]></description>
+           <link>https://www.skysports.com/f1/news/12040/13610206/racing-bulls-confirm-liam-lawson-and-arvid-lindblad-as-2027-formula-1-driver-line-up</link>
+           <pubDate>Thu, 12 Nov 2026 11:00:00 GMT</pubDate>
+           <category>News Story</category>
+           <enclosure type="image/jpg" url="https://e0.365dm.com/26/10/1920x1080/skysports-f1-liam-lawson-arvid-lindblad_7389969.jpg?20261028160218" length="123456" />
+      </item>
+      	<item>
+           <title><![CDATA[Anderson, 44, joins Surrey for 2027 season]]></title>
+           <description><![CDATA[England great Sir James Anderson has joined Surrey ahead of the 2027 season in the Rothesay County Championship, continuing his career aged 44.]]></description>
+           <link>https://www.skysports.com/cricket/news/12040/13611366/james-anderson-signs-for-surrey-former-lancashire-and-england-great-to-continue-career-at-age-of-44-in-county-championship</link>
+           <pubDate>Thu, 12 Nov 2026 09:00:00 GMT</pubDate>
+           <category>News Story</category>
+           <enclosure type="image/jpg" url="https://e2.365dm.com/26/11/1920x1080/skysports-james-anderson-surrey_7404768.jpg?20261112093505" length="123456" />
+      </item>
+      	<item>
+           <title><![CDATA[Carrick sacked by Man Utd]]></title>
+           <description><![CDATA[Michael Carrick has been sacked as Manchester United head coach with Mauricio Pochettino lined up to replace him.]]></description>
+           <link>https://www.skysports.com/football/news/12040/13606106/man-utd-sack-michael-carrick-with-mauricio-pochettino-set-to-be-appointed-after-worst-start-to-premier-league-season</link>
+           <pubDate>Thu, 12 Nov 2026 10:27:00 GMT</pubDate>
+           <category>News Story</category>
+           <enclosure type="image/jpg" url="https://e2.365dm.com/26/09/1920x1080/skysports-carrick-manchester-united_7354663.jpg?20260917143449" length="123456" />
+      </item>
+      	<item>
+           <title><![CDATA[From Champions League finish to drop zone: How Carrick's reign unravelled]]></title>
+           <description><![CDATA[<a href='https://www.skysports.com/football/news/13606106/man-utd-sack-michael-carrick-with-mauricio-pochettino-set-to-be-appointed-after-worst-start-to-premier-league-season'>Michael Carrick has been sacked as Manchester United head coach</a>, so how did his Old Trafford reign go so wrong, so quickly?]]></description>
+           <link>https://www.skysports.com/football/news/12040/13602738/michael-carrick-sacked-by-man-utd-how-his-old-trafford-reign-unravelled-in-worst-start-to-a-season-in-40-years</link>
+           <pubDate>Thu, 12 Nov 2026 10:50:00 GMT</pubDate>
+           <category>News Story</category>
+           <enclosure type="image/jpg" url="https://e1.365dm.com/26/10/1920x1080/skysports-premier-league-michael-carrick_7384428.jpg?20261023101320" length="123456" />
+      </item>
+      	<item>
+           <title><![CDATA[McIlroy chases shock leader Luiten in Race to Dubai finale LIVE!]]></title>
+           <description><![CDATA[]]></description>
+           <link>https://www.skysports.com/golf/live-blog/12040/13611295/dp-world-tour-championship-first-round-live-latest-scores-highlights-as-rory-mcilroy-chases-race-to-dubai-title</link>
+           <pubDate>Thu, 12 Nov 2026 11:00:00 GMT</pubDate>
+           <category>Liveblog</category>
+           <enclosure type="image/jpg" url="https://e0.365dm.com/26/11/1920x1080/skysports-rory-mcilroy-golf_7404812.jpg?20261112102107" length="123456" />
+      </item>
+      	<item>
+           <title><![CDATA['Concern is high' as Curry exits Warriors loss with abdominal injury]]></title>
+           <description><![CDATA[Four-time NBA champion Steph Curry exited the Golden State Warriors' 115-108 loss to the Houston Rockets with right abdominal soreness.]]></description>
+           <link>https://www.skysports.com/nba/news/12040/13611306/steph-curry-injured-golden-state-warriors-concern-is-high-as-four-time-nba-champion-exits-houston-rockets-loss</link>
+           <pubDate>Thu, 12 Nov 2026 07:55:00 GMT</pubDate>
+           <category>News Story</category>
+           <enclosure type="image/jpg" url="https://e0.365dm.com/26/04/1920x1080/skysports-stephen-curry-warriors_7221246.jpg?20260416065844" length="123456" />
+      </item>
+      	<item>
+           <title><![CDATA[PDC chief reveals who we might see at Premier League Darts in 2027]]></title>
+           <description><![CDATA[Matt Porter updates darts fans on who they can expect to see in the new season of the Premier League of Darts.]]></description>
+           <link>https://www.skysports.com/watch/video/13611250/smith-is-one-of-the-best-in-the-world-who-can-we-expect-to-see-at-pl-of-darts</link>
+           <pubDate>Wed, 11 Nov 2026 22:47:00 GMT</pubDate>
+           <category>Video</category>
+           <enclosure type="image/jpg" url="https://e1.365dm.com/26/11/1920x1080/skysports-d-s_7404453.jpg?20261111225417" length="123456" />
+      </item>
+      	<item>
+           <title><![CDATA[Cummins to address Khawaja claims on Friday]]></title>
+           <description><![CDATA[Australia captain Pat Cummins has called a press conference for Friday to have his say on 'Sandpapergate' after former team-mate Usman Khawaja's explosive claims that the entire dressing room knew about the ball-tampering scheme that took place on the tour of South Africa in 2018.]]></description>
+           <link>https://www.skysports.com/cricket/news/12040/13611274/sandpapergate-australia-captain-pat-cummins-to-address-usman-khawaja-claims-on-friday</link>
+           <pubDate>Thu, 12 Nov 2026 07:00:00 GMT</pubDate>
+           <category>News Story</category>
+           <enclosure type="image/jpg" url="https://e0.365dm.com/24/07/1920x1080/skysports-pat-cummins-australia_6626552.jpg?20261112065507" length="123456" />
+      </item>
+      	<item>
+           <title><![CDATA[Age-old rivalry bookends RLWC but will it end 18 years of supremacy? ]]></title>
+           <description><![CDATA[An age-old rivalry will bookend the Rugby League World Cup 2026 in the latest symbol that rugby league worldwide has grown but, ultimately, the contenders are still just contenders and the favourites remain just that. ]]></description>
+           <link>https://www.skysports.com/rugby-league/news/12040/13610091/australia-vs-new-zealand-age-old-rivalry-bookends-rugby-league-world-cup-but-will-it-end-18-years-of-supremacy</link>
+           <pubDate>Thu, 12 Nov 2026 07:00:00 GMT</pubDate>
+           <category>News Story</category>
+           <enclosure type="image/jpg" url="https://e2.365dm.com/26/11/1920x1080/skysports-rugby-league-rugby-league-world-cup_7402009.jpg?20261111161013" length="123456" />
+      </item>
+      	<item>
+           <title><![CDATA[Darts star Sheldon on brilliant Beau and the Littler effect hitting Ireland]]></title>
+           <description><![CDATA[Katie Sheldon - nicknamed 'The Dublin Diamond' - is a pioneer of women's darts in Ireland at the tender age of 22.]]></description>
+           <link>https://www.skysports.com/darts/news/12040/13605780/darts-player-katie-sheldon-irish-ace-on-brilliant-beau-greaves-and-how-littler-littler-has-inspired-a-boom-in-ireland</link>
+           <pubDate>Thu, 12 Nov 2026 07:00:00 GMT</pubDate>
+           <category>News Story</category>
+           <enclosure type="image/jpg" url="https://e0.365dm.com/26/10/1920x1080/skysports-katie-sheldon-darts_7392055.jpg?20261030170738" length="123456" />
+      </item>
+      	<item>
+           <title><![CDATA[The six damning stats that made Carrick's job untenable]]></title>
+           <description><![CDATA[Sky Sports' Adam Binnie shares six stats that show Manchester United's troubles so far this season, and why Michael Carrick's job became untenable.]]></description>
+           <link>https://www.skysports.com/watch/video/13610249/the-six-damning-statistics-that-made-michael-carricks-manchester-united-job-untenable</link>
+           <pubDate>Mon, 09 Nov 2026 15:10:00 GMT</pubDate>
+           <category>Video</category>
+           <enclosure type="image/jpg" url="https://e1.365dm.com/26/11/1920x1080/skysports-football-man-utd_7402287.jpg?20261109153030" length="123456" />
+      </item>
+      	<item>
+           <title><![CDATA[Hereford hosts six-race card]]></title>
+           <description><![CDATA[Don't miss six races from Hereford on Tuesday, live on Sky Sports Racing.]]></description>
+           <link>https://www.skysports.com/racing/news/12040/13610641/today-on-sky-sports-racing-hereford-hosts-six-race-card</link>
+           <pubDate>Thu, 12 Nov 2026 06:00:00 GMT</pubDate>
+           <category>News Story</category>
+           <enclosure type="image/jpg" url="https://e2.365dm.com/26/11/1920x1080/skysports-hereford-racing_7403685.png?20261111095132" length="123456" />
+      </item>
+      	<item>
+           <title><![CDATA[Watch McIlroy's hilarious attempt at hitting the world's longest driver!]]></title>
+           <description><![CDATA[Watch Rory McIlroy's hilarious attempt at hitting the world's longest driver! Credit: @GOLF_com]]></description>
+           <link>https://www.skysports.com/watch/video/13610743/rory-mcilroys-hilarious-attempt-at-hitting-the-worlds-longest-driver</link>
+           <pubDate>Tue, 10 Nov 2026 18:29:00 GMT</pubDate>
+           <category>Video</category>
+           <enclosure type="image/jpg" url="https://e1.365dm.com/26/11/1920x1080/skysports-golf-mcilroy_7403374.jpg?20261110183812" length="123456" />
+      </item>
+      	<item>
+           <title><![CDATA[WTA Finals: Sabalenka stunned by Andreeva as Svitolina battles back vs Muchova]]></title>
+           <description><![CDATA[World No 3&#160;Mirra Andreeva booked her place &#8204;in the semi-finals of the WTA Finals with a stunning 6-4 6-0 win over Aryna &#8204;Sabalenka on Wednesday, while Elina Svitolina battled back to beat Karolina &#8203;Muchova and keep her hopes alive.]]></description>
+           <link>https://www.skysports.com/tennis/news/12040/13611153/wta-finals-aryna-sabalenka-stunned-by-mirra-andreeva-as-elina-svitolina-battles-back-vs-karolina-muchova-at-indian-wells</link>
+           <pubDate>Wed, 11 Nov 2026 16:01:00 GMT</pubDate>
+           <category>News Story</category>
+           <enclosure type="image/jpg" url="https://e0.365dm.com/26/11/1920x1080/skysports-sabalenka-tennis_7404470.jpg?20261112065215" length="123456" />
+      </item>
+      	<item>
+           <title><![CDATA[Retaining titles is tough but Arteta's Arsenal are built differently]]></title>
+           <description><![CDATA[The great basketball coach Phil Jackson is the most successful in NBA history having won 11 championships. Nevertheless, in his famous book Eleven Rings, he is still moved to claim that the year after winning a championship is always the hardest.]]></description>
+           <link>https://www.skysports.com/football/news/12040/13607189/mikel-artetas-hunger-for-arsenal-to-retain-the-premier-league-can-help-them-defy-the-odds-and-maintain-their-standards</link>
+           <pubDate>Thu, 12 Nov 2026 10:00:00 GMT</pubDate>
+           <category>News Story</category>
+           <enclosure type="image/jpg" url="https://e1.365dm.com/26/10/1920x1080/skysports-mikel-arteta-arsenal_7370268.jpg?20261007094114" length="123456" />
+      </item>
+      	<item>
+           <title><![CDATA[Explained: How McIlroy can win the Race to Dubai]]></title>
+           <description><![CDATA[Sky Sports' Jamie Weir explains how Rory McIlroy can win the DP World Tour's Race to Dubai for a record-equalling eighth time. ]]></description>
+           <link>https://www.skysports.com/watch/video/13611316/explained-how-rory-mcilroy-can-win-the-race-to-dubai</link>
+           <pubDate>Thu, 12 Nov 2026 08:36:00 GMT</pubDate>
+           <category>Video</category>
+           <enclosure type="image/jpg" url="https://e1.365dm.com/26/11/1920x1080/skysports-golf-explaine_7404598.jpg?20261112083932" length="123456" />
+      </item>
+      	<item>
+           <title><![CDATA[Golf leaderboards: DP World Tour Championship and more ]]></title>
+           <description><![CDATA[Latest golf scores and results from around the world, including the DP World Tour Championship, PGA Tour, LPGA Tour and more. ]]></description>
+           <link>https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more</link>
+           <pubDate>Mon, 09 Nov 2026 15:00:00 GMT</pubDate>
+           <category>News Story</category>
+           <enclosure type="image/jpg" url="https://e0.365dm.com/26/09/1920x1080/skysports-tyrrell-hatton-golf_7356860.jpg?20260920104158" length="123456" />
+      </item>
+      	<item>
+           <title><![CDATA[Palace latest: Talks progressing for Frank to succeed Sage]]></title>
+           <description><![CDATA[]]></description>
+           <link>https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights</link>
+           <pubDate>Wed, 11 Nov 2026 14:00:00 GMT</pubDate>
+           <category>Liveblog</category>
+           <enclosure type="image/jpg" url="https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235" length="123456" />
+      </item>
+      	<item>
+           <title><![CDATA[Why have Man Utd only had two 'successful' managers? ]]></title>
+           <description><![CDATA[]]></description>
+           <link>https://www.skysports.com/football/story-telling/12040/13610897/why-have-man-utd-only-had-two-successful-managers</link>
+           <pubDate>Thu, 12 Nov 2026 08:00:00 GMT</pubDate>
+           <category>Story Telling</category>
+           <enclosure type="image/jpg" url="https://e1.365dm.com/26/05/1920x1080/skysports-premier-league-manchester-united_7236055.jpg?20261102093921" length="123456" />
+      </item>
+            </channel>
+      </rss>
+ 

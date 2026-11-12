@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>United News</title>
+<meta name="theme-color" content="#da291c">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="bar">
+    <h1>United News</h1>
+    <button id="refresh" type="button" aria-label="Refresh news">&#x21bb; Refresh</button>
+  </div>
+  <p id="meta" aria-live="polite">Loading…</p>
+  <p id="warn" hidden></p>
+  <nav id="filters" aria-label="Filter by source"></nav>
+</header>
+<main>
+  <ul id="list"></ul>
+  <p id="empty" hidden>No articles to show.</p>
+</main>
+<script src="app.js"></script>
+</body>
+</html>
