@@ -50,3 +50,33 @@ def test_output_is_utf8_clean():
     p = Path(__file__).parent.parent / "site" / "data" / "news.json"
     if p.exists():
         assert "�" not in json.loads(p.read_text(encoding="utf-8"))["articles"][0]["title"]
+
+
+def _rss(title, tags, desc="x"):
+    cats = "".join(f"<category>{t}</category>" for t in tags)
+    return f"""<rss version="2.0"><channel><item><title>{title}</title><link>http://a.com/{abs(hash(title))}</link>
+    <description>{desc}</description><pubDate>Wed, 12 Nov 2026 10:00:00 GMT</pubDate>{cats}</item></channel></rss>""".encode()
+
+
+def test_tags_mode_keeps_primary_united_tag():
+    src = {"name": "G", "filter": "tags"}
+    assert len(ingest.parse_feed(_rss("Midfield rebuild talk", ["Manchester United", "Football"]), src)) == 1
+
+
+def test_tags_mode_drops_league_roundup():
+    src = {"name": "G", "filter": "tags"}
+    raw = _rss("10 talking points from the weekend", ["Premier League", "Manchester United", "Arsenal"])
+    assert ingest.parse_feed(raw, src) == []
+
+
+def test_tags_mode_keyword_rescues_untagged_primary():
+    src = {"name": "G", "filter": "tags"}
+    raw = _rss("Why Carrick was sacked", ["Premier League", "Manchester United"])
+    assert len(ingest.parse_feed(raw, src)) == 1
+
+
+def test_keywords_mode_and_legacy_true():
+    other = _rss("Arsenal beat Barca", [])
+    for mode in ("keywords", True):
+        assert ingest.parse_feed(other, {"name": "S", "filter": mode}) == []
+    assert len(ingest.parse_feed(other, {"name": "S", "filter": False})) == 1

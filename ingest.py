@@ -25,7 +25,10 @@ UA = "Mozilla/5.0 (compatible; ManUnitedNewsTracker/0.1)"
 # Used for sources that mix several clubs (filter: true).
 RELEVANCE = re.compile(
     r"man(?:chester)?\.? ?utd|man(?:chester)? united|old trafford|carrington|"
-    r"red devils|amorim|ten hag|ineos|ratcliffe", re.I)
+    r"red devils|amorim|ten hag|ineos|ratcliffe|carrick|pochettino|manchester clubs", re.I)
+
+# Feeds that tag every item "Manchester United" (even league roundups) list the primary tag first.
+CLUB_TAG = "manchester united"
 
 TRACKING_PARAMS = {"utm_source", "utm_medium", "utm_campaign", "utm_term",
                    "utm_content", "at_medium", "at_campaign", "ocid", "cmpid"}
@@ -70,6 +73,20 @@ def entry_image(entry) -> str | None:
     return None
 
 
+def is_relevant(entry, source: dict, title: str, summary: str, link: str) -> bool:
+    """source["filter"]: false/"none" keep all; true/"keywords" need a United keyword;
+    "tags" keep if a keyword matches OR the entry's first tag is Manchester United."""
+    mode = source.get("filter", False)
+    if mode in (False, None, "none"):
+        return True
+    if RELEVANCE.search(f"{title} {summary} {link}"):
+        return True
+    if mode == "tags":
+        tags = entry.get("tags") or []
+        return bool(tags) and tags[0].get("term", "").lower() == CLUB_TAG
+    return False
+
+
 def parse_feed(content: bytes, source: dict) -> list[dict]:
     """Turn raw feed bytes into article dicts. Pure function: easy to test."""
     feed = feedparser.parse(content)
@@ -81,7 +98,7 @@ def parse_feed(content: bytes, source: dict) -> list[dict]:
         if not title or not link or not when:
             continue  # unusable entry
         summary = clean_text(e.get("summary", ""))[:400]
-        if source.get("filter") and not RELEVANCE.search(f"{title} {summary} {link}"):
+        if not is_relevant(e, source, title, summary, link):
             continue
         articles.append({
             "title": title,

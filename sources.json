@@ -1,6 +1,6 @@
 [
   {"name": "BBC Sport", "url": "https://feeds.bbci.co.uk/sport/football/teams/manchester-united/rss.xml", "filter": false},
-  {"name": "The Guardian", "url": "https://www.theguardian.com/football/manchester-united/rss", "filter": false},
+  {"name": "The Guardian", "url": "https://www.theguardian.com/football/manchester-united/rss", "filter": "tags"},
   {"name": "Manchester Evening News", "url": "https://www.manchestereveningnews.co.uk/all-about/manchester-united-fc?service=rss", "filter": false},
-  {"name": "Sky Sports", "url": "https://www.skysports.com/rss/12040", "filter": true}
+  {"name": "Sky Sports", "url": "https://www.skysports.com/rss/12040", "filter": "keywords"}
 ]
