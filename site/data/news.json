@@ -1,14 +1,23 @@
 {
- "updated": "2026-11-14T12:52:52.948169+00:00",
+ "updated": "2026-11-14T13:42:13.154725+00:00",
  "articles": [
   {
    "title": "Man United LIVE: Bruno Fernandes rejects offer as Mauricio Pochettino transfer plans drawn up",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-live-mauricio-pochettino-34911029",
    "source": "Manchester Evening News",
-   "published": "2026-11-14T12:33:47+00:00",
+   "published": "2026-11-14T13:31:50+00:00",
    "summary": "Manchester United news as Mauricio Pochettino takes charge and transfer plans are made",
    "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34844021.ece/ALTERNATES/s98/0_GettyImages-2302830848.jpg",
    "kind": "live"
+  },
+  {
+   "title": "What Mauricio Pochettino's appointment means for every Manchester United player",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/what-mauricio-pochettinos-appointment-means-34911895",
+   "source": "Manchester Evening News",
+   "published": "2026-11-14T13:27:11+00:00",
+   "summary": "Mauricio Pochettino could tinker with Manchester United's XI following his appointment at Old Trafford",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34911966.ece/ALTERNATES/s98/1_GettyImages-2302949904.jpg",
+   "kind": "news"
   },
   {
    "title": "Argentinian media call out Lisandro Martinez problem that's spilled over from Man United",
@@ -18,6 +27,15 @@
    "summary": "Lisandro Martinez has suffered another setback while on international duty with Argentina",
    "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34911721.ece/ALTERNATES/s98/0_GettyImages-2305022961.jpg",
    "kind": "news"
+  },
+  {
+   "title": "WSL LIVE! Chelsea vs Man City under way, Man Utd lead Palace",
+   "url": "https://www.skysports.com/football/chelsea-women-vs-manchester-city-women/live/575819",
+   "source": "Sky Sports",
+   "published": "2026-11-14T11:15:00+00:00",
+   "summary": "",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7406398.jpg?20261114131527",
+   "kind": "live"
   },
   {
    "title": "WSL LIVE! Man Utd vs Palace on Sky before Chelsea vs Man City",
@@ -47,21 +65,21 @@
    "kind": "news"
   },
   {
-   "title": "Manchester United told how they have 'disrespected' club legend Michael Carrick",
-   "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-told-how-disrespected-34902447",
-   "source": "Manchester Evening News",
-   "published": "2026-11-14T05:00:00+00:00",
-   "summary": "Man Utd announced the sacking of Michael Carrick on Thursday, finally confirming his exit after days of media reports.",
-   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34902494.ece/ALTERNATES/s98/0_GettyImages-2304328341.jpg",
-   "kind": "news"
-  },
-  {
    "title": "Mauricio Pochettino's best Manchester United XI with forward trial as stars return",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettinos-best-manchester-united-34910718",
    "source": "Manchester Evening News",
    "published": "2026-11-14T05:00:00+00:00",
    "summary": "Mauricio Pochettino will take charge of Man United for the first time against Liverpool next weekend.",
    "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34910725.ece/ALTERNATES/s98/0_premium-canvas-1794600035035.png",
+   "kind": "news"
+  },
+  {
+   "title": "Manchester United told how they have 'disrespected' club legend Michael Carrick",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-told-how-disrespected-34902447",
+   "source": "Manchester Evening News",
+   "published": "2026-11-14T05:00:00+00:00",
+   "summary": "Man Utd announced the sacking of Michael Carrick on Thursday, finally confirming his exit after days of media reports.",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34902494.ece/ALTERNATES/s98/0_GettyImages-2304328341.jpg",
    "kind": "news"
   },
   {
