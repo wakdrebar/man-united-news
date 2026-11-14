@@ -1,5 +1,5 @@
-const CACHE = "united-news-v1";
-const SHELL = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icons/icon.svg"];
+const CACHE = "united-news-v2";
+const SHELL = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "health.html", "icons/icon.svg"];
 
 self.addEventListener("install", (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)));

@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>System Health</title>
+<meta name="theme-color" content="#da291c">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="style.css">
+<style>
+  .panel { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 14px; margin-bottom: 12px; }
+  .panel h2 { margin: 0 0 8px; font-size: 1rem; }
+  .verdict { font-size: 1.1rem; font-weight: 700; }
+  .healthy { color: #1a7f37; } .attention { color: #b26a00; } .severe { color: #cf222e; }
+  table { width: 100%; border-collapse: collapse; font-size: .85rem; }
+  th, td { text-align: left; padding: 6px 4px; border-bottom: 1px solid var(--border); }
+  .wrap { overflow-x: auto; }
+  ul.issues { margin: 6px 0 0; padding-left: 18px; font-size: .88rem; }
+  .muted { color: var(--muted); font-size: .85rem; }
+  header a { color: #fff; text-decoration: none; font-size: .9rem; }
+</style>
+</head>
+<body>
+<header>
+  <div class="bar"><h1>System health</h1><a href="./">&larr; Back to news</a></div>
+  <p id="meta">Loading…</p>
+</header>
+<main>
+  <div class="panel"><div id="verdict" class="verdict"></div><ul id="issues" class="issues"></ul></div>
+  <div class="panel"><h2>Run cadence</h2><div id="cadence" class="muted"></div></div>
+  <div class="panel"><h2>Sources</h2><div class="wrap"><table id="sources"></table></div></div>
+  <div class="panel"><h2>New articles per day</h2><div class="wrap"><table id="perday"></table></div></div>
+  <div class="panel"><h2>Stored articles</h2><div id="articles" class="muted"></div></div>
+</main>
+<script>
+"use strict";
+const $ = (id) => document.getElementById(id);
+const LABEL = { healthy: "All good", attention: "Needs attention", severe: "Problem" };
+
+function row(cells, head) {
+  const tr = document.createElement("tr");
+  cells.forEach((c) => { const td = document.createElement(head ? "th" : "td"); td.textContent = c; tr.append(td); });
+  return tr;
+}
+function ago(iso) {
+  const m = Math.max(0, (Date.now() - new Date(iso)) / 60000);
+  return m < 90 ? Math.round(m) + " min ago" : Math.round(m / 60) + " h ago";
+}
+
+fetch("data/review.json?t=" + Date.now(), { cache: "no-store" }).then((r) => r.json()).then((d) => {
+  $("meta").textContent = `Generated ${ago(d.generated)} · ${d.runs} runs recorded`;
+  $("verdict").textContent = LABEL[d.verdict] || d.verdict;
+  $("verdict").className = "verdict " + d.verdict;
+  $("issues").replaceChildren(...(d.issues.length ? d.issues : [{ msg: "No issues found." }]).map((i) => {
+    const li = document.createElement("li"); li.textContent = (i.level ? `[${i.level}] ` : "") + i.msg; return li;
+  }));
+  const c = d.cadence_min;
+  $("cadence").textContent = !c || c.median == null
+    ? "Not enough runs recorded yet to measure how often the pipeline runs."
+    : `Data covers ${d.span_days} of ${d.window_days} days${d.complete ? " (full week)" : " (still collecting)"}. ` +
+      `Median gap between runs ${c.median} min, longest ${c.max} min, about ${c.runs_per_day} runs per day. Last run ${ago(d.last_run)}.`
+    ;
+  $("sources").replaceChildren(row(["Source", "Success", "Avg items", "Fail streak", "Newest article", "Status"], true),
+    ...d.sources.map((s) => row([s.name, s.ok_pct + "%", s.avg_items, s.consecutive_failures,
+      s.newest_article_hours == null ? "none" : s.newest_article_hours + " h ago", s.status === "ok" ? "OK" : "Check"])));
+  const days = Object.entries(d.new_per_day);
+  $("perday").replaceChildren(row(["Day (UTC)", "New articles"], true), ...days.map(([k, v]) => row([k, v])));
+  const k = Object.entries(d.articles.by_kind).map(([a, b]) => `${a}: ${b}`).join(" · ");
+  $("articles").textContent = `${d.articles.total} stored (${k})`;
+}).catch((e) => { $("meta").textContent = "Could not load review: " + e.message; });
+</script>
+</body>
+</html>

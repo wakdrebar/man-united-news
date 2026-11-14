@@ -1,7 +1,29 @@
 "use strict";
 const STALE_HOURS = 3; // warn if the automation has not refreshed for this long
 const $ = (id) => document.getElementById(id);
-let articles = [], activeSource = "All", lastSeen = null;
+let articles = [], activeSource = "All", lastSeen = null, section = "news";
+
+// Which tab each article kind belongs to, and the badge shown on non-news cards.
+const SECTION = { news: "news", live: "live", poll: "live", video: "media", gallery: "media" };
+const TABS = [["news", "News"], ["live", "Live & Polls"], ["media", "Media"]];
+const BADGE = { live: "LIVE", poll: "POLL", video: "VIDEO", gallery: "PHOTOS" };
+const sectionOf = (a) => SECTION[a.kind || "news"] || "news";
+
+// Time ranges are cumulative: "This week" includes today. "Whole story" = everything stored (30 days).
+const RANGES = [["today", "Today"], ["week", "This week"], ["2weeks", "Last 2 weeks"], ["all", "Whole story"]];
+let range = "week";
+
+function inRange(a, key) {
+  if (key === "all") return true;
+  if (key === "today") { const d = new Date(); d.setHours(0, 0, 0, 0); return new Date(a.published) >= d; }
+  const days = key === "week" ? 7 : 14;
+  return Date.now() - new Date(a.published) <= days * 86400000;
+}
+
+try {
+  section = localStorage.getItem("section") || "news";
+  range = localStorage.getItem("range") || "week";
+} catch (e) {}
 
 try { lastSeen = localStorage.getItem("lastSeen"); } catch (e) {}
 
@@ -14,7 +36,20 @@ function ago(iso) {
 }
 
 function render() {
-  const sources = ["All", ...new Set(articles.map((a) => a.source))];
+  $("tabs").replaceChildren(...TABS.map(([key, label]) => {
+    const b = document.createElement("button");
+    b.type = "button";
+    b.textContent = `${label} (${articles.filter((a) => sectionOf(a) === key).length})`;
+    b.setAttribute("aria-pressed", key === section);
+    b.onclick = () => {
+      section = key; activeSource = "All"; render();
+      try { localStorage.setItem("section", key); } catch (e) {}
+    };
+    return b;
+  }));
+  const inSection = articles.filter((a) => sectionOf(a) === section);
+  if (activeSource !== "All" && !inSection.some((a) => a.source === activeSource)) activeSource = "All";
+  const sources = ["All", ...new Set(inSection.map((a) => a.source))];
   $("filters").replaceChildren(...sources.map((s) => {
     const b = document.createElement("button");
     b.type = "button"; b.textContent = s;
@@ -22,7 +57,19 @@ function render() {
     b.onclick = () => { activeSource = s; render(); };
     return b;
   }));
-  const shown = articles.filter((a) => activeSource === "All" || a.source === activeSource);
+  $("ranges").replaceChildren(...RANGES.map(([key, label]) => {
+    const b = document.createElement("button");
+    b.type = "button"; b.className = "range";
+    const n = document.createElement("span"); n.textContent = inSection.filter((a) => inRange(a, key)).length;
+    b.append(label + " ", n);
+    b.setAttribute("aria-pressed", key === range);
+    b.onclick = () => {
+      range = key; render();
+      try { localStorage.setItem("range", key); } catch (e) {}
+    };
+    return b;
+  }));
+  const shown = inSection.filter((a) => inRange(a, range) && (activeSource === "All" || a.source === activeSource));
   $("empty").hidden = shown.length > 0;
   $("list").replaceChildren(...shown.map((a) => {
     const li = document.createElement("li");
@@ -40,6 +87,10 @@ function render() {
     const info = document.createElement("div"); info.className = "info";
     const src = document.createElement("b"); src.textContent = a.source;
     info.append(src, " · " + ago(a.published));
+    if (BADGE[a.kind]) {
+      const tag = document.createElement("span"); tag.className = "tag"; tag.textContent = BADGE[a.kind];
+      info.append(" ", tag);
+    }
     box.append(h, info);
     if (a.summary) {
       const p = document.createElement("p"); p.className = "sum"; p.textContent = a.summary;

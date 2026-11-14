@@ -80,3 +80,29 @@ def test_keywords_mode_and_legacy_true():
     for mode in ("keywords", True):
         assert ingest.parse_feed(other, {"name": "S", "filter": mode}) == []
     assert len(ingest.parse_feed(other, {"name": "S", "filter": False})) == 1
+
+
+# ---- classification -------------------------------------------------------------
+def _art(url, title="Some title"):
+    return {"url": url, "title": title}
+
+
+def test_classify_live_poll_video_gallery_news():
+    c = ingest.classify
+    assert c(_art("https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-news-live-mauricio-34905073")) == "live"
+    assert c(_art("https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-press-conference-live-34906479")) == "live"
+    assert c(_art("https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live")) == "live"
+    assert c(_art("https://www.theguardian.com/football/2026/nov/12/carrick-sacked-relegation-zone-live")) == "live"
+    assert c(_art("https://www.skysports.com/football/news/transfer-news-live-updates-and-latest-on-deals")) == "live"
+    assert c(_art("https://x.com/football-news/poll-mauricio-pochettino-success-34907311", "Poll: Will he succeed?")) == "poll"
+    assert c(_art("https://www.bbc.co.uk/sport/football/videos/cm3vgx55kp3ro")) == "video"
+    assert c(_art("https://x.com/football-news/gallery/michael-carricks-crazy-final-week-34901278")) == "gallery"
+    assert c(_art("https://x.com/news/a", "Carrick's last week in pictures")) == "gallery"
+    assert c(_art("https://x.com/news/why-carrick-was-sacked", "Why Carrick was sacked")) == "news"
+
+
+def test_classify_avoids_false_positives():
+    c = ingest.classify
+    assert c(_art("https://x.com/news/fans-live-in-fear-34000", "Man United fans live in fear of another loss")) == "news"
+    assert c(_art("https://x.com/news/delivered-the-goods", "Alive and kicking: United deliver")) == "news"
+    assert c(_art("https://x.com/news/pollock-signs", "Pollock signs new deal")) == "news"

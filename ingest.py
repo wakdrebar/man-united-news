@@ -30,6 +30,31 @@ RELEVANCE = re.compile(
 # Feeds that tag every item "Manchester United" (even league roundups) list the primary tag first.
 CLUB_TAG = "manchester united"
 
+HEALTH_FILE = ROOT / "site" / "data" / "health.json"
+HEALTH_DAYS = 7
+
+# Slug patterns: MEN ".../x-live-34906479", Guardian ".../live/2026/..." or "...-live", Sky "...-live-updates-...".
+LIVE_PATH = re.compile(
+    r"(?:^|/)live(?:/|$)|-live-\d+$|-live$|news-live-|live-updates|live-blog|live-reaction|as-it-happened", re.I)
+POLL_PATH = re.compile(r"(?:^|[/-])poll(?:[-/]|$)|/quiz", re.I)
+
+
+def classify(article: dict) -> str:
+    """news | live | poll | video | gallery, from URL slug and title."""
+    path = urlsplit(article["url"]).path.lower()
+    title = article["title"]
+    if "/videos/" in path or "/video/" in path:
+        return "video"
+    if "/gallery/" in path or re.search(r"\bin pictures\b", title, re.I):
+        return "gallery"
+    if POLL_PATH.search(path) or re.match(r"\s*(poll|quiz)\s*:", title, re.I):
+        return "poll"
+    if (LIVE_PATH.search(path) or re.search(r"\bLIVE\b", title)  # uppercase LIVE only
+            or re.search(r"[–-]\s*live$", title, re.I) or "as it happened" in title.lower()):
+        return "live"
+    return "news"
+
+
 TRACKING_PARAMS = {"utm_source", "utm_medium", "utm_campaign", "utm_term",
                    "utm_content", "at_medium", "at_campaign", "ocid", "cmpid"}
 
@@ -145,6 +170,19 @@ def load_existing() -> list[dict]:
         return []
 
 
+def record_health(now: str, new_count: int, status: list[dict]) -> None:
+    """Append this run to health.json and keep only the last HEALTH_DAYS days."""
+    try:
+        runs = json.loads(HEALTH_FILE.read_text(encoding="utf-8"))["runs"]
+    except (FileNotFoundError, KeyError, json.JSONDecodeError):
+        runs = []
+    runs.append({"t": now, "new": new_count,
+                 "s": {s["source"]: [1 if s["ok"] else 0, s.get("items", 0)] for s in status}})
+    cutoff = datetime.now(timezone.utc).timestamp() - HEALTH_DAYS * 86400
+    runs = [r for r in runs if datetime.fromisoformat(r["t"]).timestamp() >= cutoff]
+    HEALTH_FILE.write_text(json.dumps({"runs": runs}, separators=(",", ":")), encoding="utf-8")
+
+
 def run() -> int:
     sources = json.loads(SOURCES_FILE.read_text(encoding="utf-8"))
     existing = load_existing()
@@ -164,6 +202,8 @@ def run() -> int:
     cutoff = datetime.now(timezone.utc).timestamp() - MAX_AGE_DAYS * 86400
     merged = [a for a in merged if datetime.fromisoformat(a["published"]).timestamp() >= cutoff]
     merged = merged[:MAX_ARTICLES]
+    for a in merged:  # also re-labels articles stored before classification existed
+        a["kind"] = classify(a)
     new_count = len(merged) - len({normalize_url(a["url"]) for a in existing} & {normalize_url(a["url"]) for a in merged})
 
     now = datetime.now(timezone.utc).isoformat()
@@ -175,6 +215,7 @@ def run() -> int:
                                           ensure_ascii=False, indent=1), encoding="utf-8")
     STATUS_FILE.write_text(json.dumps({"run": now, "new": new_count, "sources": status},
                                       indent=1), encoding="utf-8")
+    record_health(now, new_count, status)
     log.info("Done: %d articles total, %d new", len(merged), new_count)
     return 0 if any(s["ok"] for s in status) else 1
 
