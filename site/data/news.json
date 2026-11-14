@@ -1,17 +1,26 @@
 {
- "updated": "2026-11-14T12:03:42.354694+00:00",
+ "updated": "2026-11-14T12:52:52.948169+00:00",
  "articles": [
   {
    "title": "Man United LIVE: Bruno Fernandes rejects offer as Mauricio Pochettino transfer plans drawn up",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-live-mauricio-pochettino-34911029",
    "source": "Manchester Evening News",
-   "published": "2026-11-14T11:39:08+00:00",
+   "published": "2026-11-14T12:33:47+00:00",
    "summary": "Manchester United news as Mauricio Pochettino takes charge and transfer plans are made",
    "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34844021.ece/ALTERNATES/s98/0_GettyImages-2302830848.jpg",
    "kind": "live"
   },
   {
-   "title": "WSL LIVE! Chelsea vs Man City plus Man Utd vs Palace LIVE on Sky!",
+   "title": "Argentinian media call out Lisandro Martinez problem that's spilled over from Man United",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-lisandro-martinez-argentina-34911702",
+   "source": "Manchester Evening News",
+   "published": "2026-11-14T12:13:16+00:00",
+   "summary": "Lisandro Martinez has suffered another setback while on international duty with Argentina",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34911721.ece/ALTERNATES/s98/0_GettyImages-2305022961.jpg",
+   "kind": "news"
+  },
+  {
+   "title": "WSL LIVE! Man Utd vs Palace on Sky before Chelsea vs Man City",
    "url": "https://www.skysports.com/football/manchester-united-women-vs-crystal-palace-women/live/575822",
    "source": "Sky Sports",
    "published": "2026-11-14T11:15:00+00:00",
@@ -38,15 +47,6 @@
    "kind": "news"
   },
   {
-   "title": "I was set to leave Man United but the deal fell through - then I became captain",
-   "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-failed-transfer-captain-34899300",
-   "source": "Manchester Evening News",
-   "published": "2026-11-14T05:00:00+00:00",
-   "summary": "A former Manchester United captain was all set to leave for a Premier League rival - but the move fell through and a few months later he was wearing the armband for the very first time",
-   "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34899489.ece/ALTERNATES/s98/0_GettyImages-687925860.jpg",
-   "kind": "news"
-  },
-  {
    "title": "Manchester United told how they have 'disrespected' club legend Michael Carrick",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-told-how-disrespected-34902447",
    "source": "Manchester Evening News",
@@ -62,6 +62,15 @@
    "published": "2026-11-14T05:00:00+00:00",
    "summary": "Mauricio Pochettino will take charge of Man United for the first time against Liverpool next weekend.",
    "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34910725.ece/ALTERNATES/s98/0_premium-canvas-1794600035035.png",
+   "kind": "news"
+  },
+  {
+   "title": "I was set to leave Man United but the deal fell through - then I became captain",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-failed-transfer-captain-34899300",
+   "source": "Manchester Evening News",
+   "published": "2026-11-14T05:00:00+00:00",
+   "summary": "A former Manchester United captain was all set to leave for a Premier League rival - but the move fell through and a few months later he was wearing the armband for the very first time",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34899489.ece/ALTERNATES/s98/0_GettyImages-687925860.jpg",
    "kind": "news"
   },
   {
