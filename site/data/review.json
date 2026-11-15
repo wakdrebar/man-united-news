@@ -1,51 +1,51 @@
 {
- "generated": "2026-11-15T06:22:04.706496+00:00",
+ "generated": "2026-11-15T07:35:44.214426+00:00",
  "window_days": 7,
- "runs": 40,
+ "runs": 41,
  "since": "2026-11-14T01:43:26.574663+00:00",
- "last_run": "2026-11-15T06:22:04.625277+00:00",
+ "last_run": "2026-11-15T07:35:44.146998+00:00",
  "span_days": 1.2,
  "complete": false,
  "cadence_min": {
-  "median": 45.3,
+  "median": 45.7,
   "max": 77.9,
-  "runs_per_day": 33.5
+  "runs_per_day": 32.9
  },
  "sources": [
   {
    "name": "BBC Sport",
-   "runs": 40,
+   "runs": 41,
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 31.5,
+   "newest_article_hours": 32.7,
    "status": "ok"
   },
   {
    "name": "Manchester Evening News",
-   "runs": 40,
+   "runs": 41,
    "ok_pct": 100.0,
    "avg_items": 25,
    "consecutive_failures": 0,
-   "newest_article_hours": 0.4,
+   "newest_article_hours": 1.6,
    "status": "ok"
   },
   {
    "name": "Sky Sports",
-   "runs": 40,
+   "runs": 41,
    "ok_pct": 100.0,
    "avg_items": 1.9,
    "consecutive_failures": 0,
-   "newest_article_hours": 19.1,
+   "newest_article_hours": 20.3,
    "status": "warn"
   },
   {
    "name": "The Guardian",
-   "runs": 40,
+   "runs": 41,
    "ok_pct": 100.0,
    "avg_items": 19.3,
    "consecutive_failures": 0,
-   "newest_article_hours": 6.6,
+   "newest_article_hours": 7.9,
    "status": "ok"
   }
  ],
@@ -76,11 +76,11 @@
   },
   {
    "level": "warn",
-   "msg": "Runs are infrequent: median gap 45 min (GitHub throttling?)."
+   "msg": "Runs are infrequent: median gap 46 min (GitHub throttling?)."
   },
   {
    "level": "warn",
-   "msg": "Sky Sports: fetched OK but returned 0 items in the last 9 runs (feed format change or filter too strict?)."
+   "msg": "Sky Sports: fetched OK but returned 0 items in the last 10 runs (feed format change or filter too strict?)."
   }
  ],
  "verdict": "attention"
