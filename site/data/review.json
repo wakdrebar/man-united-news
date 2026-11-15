@@ -1,69 +1,69 @@
 {
- "generated": "2026-11-15T10:53:02.398727+00:00",
+ "generated": "2026-11-15T11:29:32.067940+00:00",
  "window_days": 7,
- "runs": 45,
+ "runs": 46,
  "since": "2026-11-14T01:43:26.574663+00:00",
- "last_run": "2026-11-15T10:53:02.327764+00:00",
+ "last_run": "2026-11-15T11:29:31.971001+00:00",
  "span_days": 1.4,
  "complete": false,
  "cadence_min": {
-  "median": 46.4,
+  "median": 46.2,
   "max": 77.9,
-  "runs_per_day": 32.6
+  "runs_per_day": 32.7
  },
  "sources": [
   {
    "name": "BBC Sport",
-   "runs": 45,
+   "runs": 46,
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 36.0,
+   "newest_article_hours": 36.6,
    "status": "ok"
   },
   {
    "name": "Manchester Evening News",
-   "runs": 45,
+   "runs": 46,
    "ok_pct": 100.0,
    "avg_items": 25,
    "consecutive_failures": 0,
-   "newest_article_hours": 0.3,
+   "newest_article_hours": 0.6,
    "status": "ok"
   },
   {
    "name": "Sky Sports",
-   "runs": 45,
+   "runs": 46,
    "ok_pct": 100.0,
    "avg_items": 1.7,
    "consecutive_failures": 0,
-   "newest_article_hours": 23.6,
+   "newest_article_hours": 24.2,
    "status": "warn"
   },
   {
    "name": "The Guardian",
-   "runs": 45,
+   "runs": 46,
    "ok_pct": 100.0,
    "avg_items": 19.4,
    "consecutive_failures": 0,
-   "newest_article_hours": 11.2,
+   "newest_article_hours": 11.8,
    "status": "ok"
   }
  ],
  "new_per_day": {
   "2026-11-14": 19,
-  "2026-11-15": 7
+  "2026-11-15": 8
  },
  "articles": {
-  "total": 173,
+  "total": 174,
   "by_kind": {
-   "news": 134,
+   "news": 135,
    "live": 8,
    "video": 28,
    "poll": 2,
    "gallery": 1
   },
   "by_source": {
-   "Manchester Evening News": 85,
+   "Manchester Evening News": 86,
    "The Guardian": 27,
    "Sky Sports": 23,
    "BBC Sport": 38
@@ -80,7 +80,7 @@
   },
   {
    "level": "warn",
-   "msg": "Sky Sports: fetched OK but returned 0 items in the last 14 runs (feed format change or filter too strict?)."
+   "msg": "Sky Sports: fetched OK but returned 0 items in the last 15 runs (feed format change or filter too strict?)."
   }
  ],
  "verdict": "attention"
