@@ -1,51 +1,51 @@
 {
- "generated": "2026-11-15T02:34:21.953140+00:00",
+ "generated": "2026-11-15T03:27:51.112849+00:00",
  "window_days": 7,
- "runs": 36,
+ "runs": 37,
  "since": "2026-11-14T01:43:26.574663+00:00",
- "last_run": "2026-11-15T02:34:21.893648+00:00",
- "span_days": 1.0,
+ "last_run": "2026-11-15T03:27:51.036429+00:00",
+ "span_days": 1.1,
  "complete": false,
  "cadence_min": {
-  "median": 41.5,
+  "median": 41.6,
   "max": 77.9,
-  "runs_per_day": 34.8
+  "runs_per_day": 34.5
  },
  "sources": [
   {
    "name": "BBC Sport",
-   "runs": 36,
+   "runs": 37,
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 27.7,
+   "newest_article_hours": 28.6,
    "status": "ok"
   },
   {
    "name": "Manchester Evening News",
-   "runs": 36,
+   "runs": 37,
    "ok_pct": 100.0,
    "avg_items": 25,
    "consecutive_failures": 0,
-   "newest_article_hours": 3.6,
+   "newest_article_hours": 4.5,
    "status": "ok"
   },
   {
    "name": "Sky Sports",
-   "runs": 36,
+   "runs": 37,
    "ok_pct": 100.0,
    "avg_items": 2.1,
    "consecutive_failures": 0,
-   "newest_article_hours": 15.3,
+   "newest_article_hours": 16.2,
    "status": "warn"
   },
   {
    "name": "The Guardian",
-   "runs": 36,
+   "runs": 37,
    "ok_pct": 100.0,
-   "avg_items": 19.2,
+   "avg_items": 19.3,
    "consecutive_failures": 0,
-   "newest_article_hours": 2.8,
+   "newest_article_hours": 3.7,
    "status": "ok"
   }
  ],
@@ -72,15 +72,15 @@
  "issues": [
   {
    "level": "info",
-   "msg": "Collecting data: 1.0 of 7 days so far."
+   "msg": "Collecting data: 1.1 of 7 days so far."
   },
   {
    "level": "warn",
-   "msg": "Runs are infrequent: median gap 41 min (GitHub throttling?)."
+   "msg": "Runs are infrequent: median gap 42 min (GitHub throttling?)."
   },
   {
    "level": "warn",
-   "msg": "Sky Sports: fetched OK but returned 0 items in the last 5 runs (feed format change or filter too strict?)."
+   "msg": "Sky Sports: fetched OK but returned 0 items in the last 6 runs (feed format change or filter too strict?)."
   }
  ],
  "verdict": "attention"
