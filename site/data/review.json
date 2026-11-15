@@ -1,71 +1,71 @@
 {
- "generated": "2026-11-15T22:22:26.315145+00:00",
+ "generated": "2026-11-15T23:00:29.400467+00:00",
  "window_days": 7,
- "runs": 61,
+ "runs": 62,
  "since": "2026-11-14T01:43:26.574663+00:00",
- "last_run": "2026-11-15T22:22:26.227702+00:00",
+ "last_run": "2026-11-15T23:00:29.327468+00:00",
  "span_days": 1.9,
  "complete": false,
  "cadence_min": {
-  "median": 44.1,
+  "median": 43.8,
   "max": 77.9,
-  "runs_per_day": 32.8
+  "runs_per_day": 32.9
  },
  "sources": [
   {
    "name": "BBC Sport",
-   "runs": 61,
+   "runs": 62,
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 47.5,
-   "status": "ok"
+   "newest_article_hours": 48.1,
+   "status": "warn"
   },
   {
    "name": "Manchester Evening News",
-   "runs": 61,
+   "runs": 62,
    "ok_pct": 100.0,
    "avg_items": 25,
    "consecutive_failures": 0,
-   "newest_article_hours": 8.4,
+   "newest_article_hours": 9.0,
    "status": "ok"
   },
   {
    "name": "Sky Sports",
-   "runs": 61,
+   "runs": 62,
    "ok_pct": 100.0,
    "avg_items": 1.2,
    "consecutive_failures": 0,
-   "newest_article_hours": 35.1,
-   "status": "warn"
+   "newest_article_hours": 0.3,
+   "status": "ok"
   },
   {
    "name": "The Guardian",
-   "runs": 61,
+   "runs": 62,
    "ok_pct": 100.0,
    "avg_items": 19.6,
    "consecutive_failures": 0,
-   "newest_article_hours": 22.6,
+   "newest_article_hours": 23.3,
    "status": "ok"
   }
  ],
  "new_per_day": {
   "2026-11-14": 19,
-  "2026-11-15": 11
+  "2026-11-15": 12
  },
  "articles": {
-  "total": 177,
+  "total": 178,
   "by_kind": {
-   "news": 138,
+   "news": 139,
    "live": 8,
    "video": 28,
    "poll": 2,
    "gallery": 1
   },
   "by_source": {
+   "Sky Sports": 24,
    "Manchester Evening News": 89,
    "The Guardian": 27,
-   "Sky Sports": 23,
    "BBC Sport": 38
   }
  },
@@ -80,7 +80,7 @@
   },
   {
    "level": "warn",
-   "msg": "Sky Sports: fetched OK but returned 0 items in the last 30 runs (feed format change or filter too strict?)."
+   "msg": "BBC Sport: no new article in the last 48h."
   }
  ],
  "verdict": "attention"
