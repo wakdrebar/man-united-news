@@ -1,14 +1,23 @@
 {
- "updated": "2026-11-16T21:32:00.376852+00:00",
+ "updated": "2026-11-16T22:24:37.541737+00:00",
  "articles": [
   {
    "title": "Man United news LIVE: Pochettino 'issues immediate ban' and set to make historic appointment",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-news-live-pochettino-34915986",
    "source": "Manchester Evening News",
-   "published": "2026-11-16T20:31:01+00:00",
+   "published": "2026-11-16T22:08:01+00:00",
    "summary": "Mauricio Pochettino has been appointed Manchester United boss but has yet to arrive at Old Trafford as the club prepares to face Liverpool at the weekend",
    "image": "https://i2-prod.football.london/incoming/article34915982.ece/ALTERNATES/s98/0_GettyImages-2305156390.jpg",
    "kind": "live"
+  },
+  {
+   "title": "JJ Gabriel signs lucrative new deal as Man United fans stunned by update",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jj-gabriel-man-utd-contract-34921563",
+   "source": "Manchester Evening News",
+   "published": "2026-11-16T22:06:58+00:00",
+   "summary": "JJ Gabriel appears all set to leave Manchester United but the teenage prodigy has left fans shocked after penning a new deal",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34673927.ece/ALTERNATES/s98/1_GettyImages-2276373760.jpg",
+   "kind": "news"
   },
   {
    "title": "Could Pochettino bring USA players to Man Utd?",
@@ -128,21 +137,21 @@
    "kind": "news"
   },
   {
-   "title": "Mauricio Pochettino can unleash the 'next Phil Foden' at Manchester United",
-   "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-can-unleash-next-34914533",
-   "source": "Manchester Evening News",
-   "published": "2026-11-16T05:00:00+00:00",
-   "summary": "Man Utd's new head coach Mauricio Pochettino has a good track record for giving first-team opportunities to young players.",
-   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34914557.ece/ALTERNATES/s98/2_GettyImages-1837551570.jpg",
-   "kind": "news"
-  },
-  {
    "title": "We played under Mauricio Pochettino – this is what Man United players can expect",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-mauricio-pochettino-lambert-34914943",
    "source": "Manchester Evening News",
    "published": "2026-11-16T05:00:00+00:00",
    "summary": "Two former Mauricio Pochettino players have given an eye-opening insight into the new Manchester United boss",
    "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34915000.ece/ALTERNATES/s98/1_GettyImages-2150452254.jpg",
+   "kind": "news"
+  },
+  {
+   "title": "Mauricio Pochettino can unleash the 'next Phil Foden' at Manchester United",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-can-unleash-next-34914533",
+   "source": "Manchester Evening News",
+   "published": "2026-11-16T05:00:00+00:00",
+   "summary": "Man Utd's new head coach Mauricio Pochettino has a good track record for giving first-team opportunities to young players.",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34914557.ece/ALTERNATES/s98/2_GettyImages-1837551570.jpg",
    "kind": "news"
   },
   {
