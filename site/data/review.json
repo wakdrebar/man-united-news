@@ -1,51 +1,51 @@
 {
- "generated": "2026-11-17T09:19:46.845836+00:00",
+ "generated": "2026-11-17T10:28:07.021821+00:00",
  "window_days": 7,
- "runs": 91,
+ "runs": 92,
  "since": "2026-11-14T01:43:26.574663+00:00",
- "last_run": "2026-11-17T09:19:46.699490+00:00",
- "span_days": 3.3,
+ "last_run": "2026-11-17T10:28:06.942364+00:00",
+ "span_days": 3.4,
  "complete": false,
  "cadence_min": {
-  "median": 49.5,
+  "median": 49.6,
   "max": 163.7,
-  "runs_per_day": 27.4
+  "runs_per_day": 27.3
  },
  "sources": [
   {
    "name": "BBC Sport",
-   "runs": 91,
+   "runs": 92,
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 13.8,
+   "newest_article_hours": 0.7,
    "status": "ok"
   },
   {
    "name": "Manchester Evening News",
-   "runs": 91,
+   "runs": 92,
    "ok_pct": 100.0,
    "avg_items": 25,
    "consecutive_failures": 0,
-   "newest_article_hours": 0.5,
+   "newest_article_hours": 0.2,
    "status": "ok"
   },
   {
    "name": "Sky Sports",
-   "runs": 91,
+   "runs": 92,
    "ok_pct": 100.0,
    "avg_items": 1.2,
    "consecutive_failures": 0,
-   "newest_article_hours": 1.1,
+   "newest_article_hours": 2.2,
    "status": "ok"
   },
   {
    "name": "The Guardian",
-   "runs": 91,
+   "runs": 92,
    "ok_pct": 100.0,
    "avg_items": 19.7,
    "consecutive_failures": 0,
-   "newest_article_hours": 10.3,
+   "newest_article_hours": 11.4,
    "status": "ok"
   }
  ],
@@ -53,32 +53,32 @@
   "2026-11-14": 19,
   "2026-11-15": 12,
   "2026-11-16": 18,
-  "2026-11-17": 4
+  "2026-11-17": 8
  },
  "articles": {
-  "total": 200,
+  "total": 204,
   "by_kind": {
    "live": 10,
-   "news": 157,
-   "video": 30,
+   "news": 160,
+   "video": 31,
    "poll": 2,
    "gallery": 1
   },
   "by_source": {
-   "Manchester Evening News": 106,
+   "Manchester Evening News": 108,
+   "BBC Sport": 41,
    "Sky Sports": 27,
-   "The Guardian": 28,
-   "BBC Sport": 39
+   "The Guardian": 28
   }
  },
  "issues": [
   {
    "level": "info",
-   "msg": "Collecting data: 3.3 of 7 days so far."
+   "msg": "Collecting data: 3.4 of 7 days so far."
   },
   {
    "level": "warn",
-   "msg": "Runs are infrequent: median gap 49 min (GitHub throttling?)."
+   "msg": "Runs are infrequent: median gap 50 min (GitHub throttling?)."
   }
  ],
  "verdict": "attention"
