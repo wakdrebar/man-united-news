@@ -1,5 +1,5 @@
 {
- "run": "2026-11-18T15:27:55.468773+00:00",
+ "run": "2026-11-18T16:32:39.752941+00:00",
  "new": 2,
  "sources": [
   {
@@ -9,8 +9,8 @@
   },
   {
    "source": "The Guardian",
-   "ok": true,
-   "items": 20
+   "ok": false,
+   "error": "403 Client Error: Forbidden for url: https://www.theguardian.com/football/manchester-united/rss"
   },
   {
    "source": "Manchester Evening News",
