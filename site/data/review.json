@@ -1,51 +1,51 @@
 {
- "generated": "2026-11-18T12:09:21.904554+00:00",
+ "generated": "2026-11-18T13:25:48.207531+00:00",
  "window_days": 7,
- "runs": 117,
+ "runs": 118,
  "since": "2026-11-14T01:43:26.574663+00:00",
- "last_run": "2026-11-18T12:09:21.831520+00:00",
- "span_days": 4.4,
+ "last_run": "2026-11-18T13:25:48.138658+00:00",
+ "span_days": 4.5,
  "complete": false,
  "cadence_min": {
-  "median": 52.7,
+  "median": 52.8,
   "max": 163.7,
-  "runs_per_day": 26.4
+  "runs_per_day": 26.3
  },
  "sources": [
   {
    "name": "BBC Sport",
-   "runs": 117,
+   "runs": 118,
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 0.8,
+   "newest_article_hours": 2.0,
    "status": "ok"
   },
   {
    "name": "Manchester Evening News",
-   "runs": 117,
+   "runs": 118,
    "ok_pct": 100.0,
    "avg_items": 25,
    "consecutive_failures": 0,
-   "newest_article_hours": 1.5,
+   "newest_article_hours": 0.4,
    "status": "ok"
   },
   {
    "name": "Sky Sports",
-   "runs": 117,
+   "runs": 118,
    "ok_pct": 100.0,
    "avg_items": 1.4,
    "consecutive_failures": 0,
-   "newest_article_hours": 0.2,
+   "newest_article_hours": 1.4,
    "status": "ok"
   },
   {
    "name": "The Guardian",
-   "runs": 117,
+   "runs": 118,
    "ok_pct": 100.0,
    "avg_items": 19.8,
    "consecutive_failures": 0,
-   "newest_article_hours": 16.3,
+   "newest_article_hours": 17.6,
    "status": "ok"
   }
  ],
@@ -54,28 +54,28 @@
   "2026-11-15": 12,
   "2026-11-16": 18,
   "2026-11-17": 25,
-  "2026-11-18": 14
+  "2026-11-18": 16
  },
  "articles": {
-  "total": 235,
+  "total": 237,
   "by_kind": {
-   "news": 188,
-   "video": 33,
+   "news": 190,
    "live": 11,
+   "video": 33,
    "poll": 2,
    "gallery": 1
   },
   "by_source": {
+   "Manchester Evening News": 128,
    "Sky Sports": 32,
-   "BBC Sport": 46,
-   "Manchester Evening News": 127,
+   "BBC Sport": 47,
    "The Guardian": 30
   }
  },
  "issues": [
   {
    "level": "info",
-   "msg": "Collecting data: 4.4 of 7 days so far."
+   "msg": "Collecting data: 4.5 of 7 days so far."
   },
   {
    "level": "warn",
