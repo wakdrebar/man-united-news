@@ -1,51 +1,51 @@
 {
- "generated": "2026-11-18T10:06:39.989738+00:00",
+ "generated": "2026-11-18T11:10:31.582334+00:00",
  "window_days": 7,
- "runs": 115,
+ "runs": 116,
  "since": "2026-11-14T01:43:26.574663+00:00",
- "last_run": "2026-11-18T10:06:39.921370+00:00",
- "span_days": 4.3,
+ "last_run": "2026-11-18T11:10:31.485901+00:00",
+ "span_days": 4.4,
  "complete": false,
  "cadence_min": {
-  "median": 52.6,
+  "median": 52.7,
   "max": 163.7,
   "runs_per_day": 26.4
  },
  "sources": [
   {
    "name": "BBC Sport",
-   "runs": 115,
+   "runs": 116,
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 1.4,
+   "newest_article_hours": 2.5,
    "status": "ok"
   },
   {
    "name": "Manchester Evening News",
-   "runs": 115,
+   "runs": 116,
    "ok_pct": 100.0,
    "avg_items": 25,
    "consecutive_failures": 0,
-   "newest_article_hours": 0.2,
+   "newest_article_hours": 0.5,
    "status": "ok"
   },
   {
    "name": "Sky Sports",
-   "runs": 115,
+   "runs": 116,
    "ok_pct": 100.0,
    "avg_items": 1.4,
    "consecutive_failures": 0,
-   "newest_article_hours": 11.1,
+   "newest_article_hours": 1.8,
    "status": "ok"
   },
   {
    "name": "The Guardian",
-   "runs": 115,
+   "runs": 116,
    "ok_pct": 100.0,
    "avg_items": 19.8,
    "consecutive_failures": 0,
-   "newest_article_hours": 14.3,
+   "newest_article_hours": 15.3,
    "status": "ok"
   }
  ],
@@ -54,28 +54,28 @@
   "2026-11-15": 12,
   "2026-11-16": 18,
   "2026-11-17": 25,
-  "2026-11-18": 10
+  "2026-11-18": 12
  },
  "articles": {
-  "total": 231,
+  "total": 233,
   "by_kind": {
-   "news": 185,
+   "news": 187,
    "live": 11,
    "video": 32,
    "poll": 2,
    "gallery": 1
   },
   "by_source": {
-   "Manchester Evening News": 126,
+   "Manchester Evening News": 127,
+   "Sky Sports": 31,
    "BBC Sport": 45,
-   "Sky Sports": 30,
    "The Guardian": 30
   }
  },
  "issues": [
   {
    "level": "info",
-   "msg": "Collecting data: 4.3 of 7 days so far."
+   "msg": "Collecting data: 4.4 of 7 days so far."
   },
   {
    "level": "warn",
