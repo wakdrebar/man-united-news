@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-19T21:28:24.662163+00:00",
+ "generated": "2026-11-19T21:30:48.318761+00:00",
  "window_days": 7,
- "runs": 234,
+ "runs": 235,
  "since": "2026-11-14T01:43:26.574663+00:00",
- "last_run": "2026-11-19T21:28:24.592968+00:00",
+ "last_run": "2026-11-19T21:30:48.230861+00:00",
  "span_days": 5.8,
  "complete": false,
  "cadence_min": {
-  "median": 37.7,
+  "median": 37.4,
   "max": 163.7,
-  "runs_per_day": 40.2
+  "runs_per_day": 40.3
  },
  "sources": [
   {
    "name": "BBC Sport",
-   "runs": 234,
+   "runs": 235,
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
@@ -23,7 +23,7 @@
   },
   {
    "name": "Manchester Evening News",
-   "runs": 234,
+   "runs": 235,
    "ok_pct": 100.0,
    "avg_items": 25,
    "consecutive_failures": 0,
@@ -32,7 +32,7 @@
   },
   {
    "name": "Sky Sports",
-   "runs": 234,
+   "runs": 235,
    "ok_pct": 100.0,
    "avg_items": 1.6,
    "consecutive_failures": 0,
@@ -41,11 +41,11 @@
   },
   {
    "name": "The Guardian",
-   "runs": 234,
+   "runs": 235,
    "ok_pct": 99.6,
    "avg_items": 19.9,
    "consecutive_failures": 0,
-   "newest_article_hours": 5.9,
+   "newest_article_hours": 6.0,
    "status": "ok"
   }
  ],
@@ -80,7 +80,7 @@
   },
   {
    "level": "warn",
-   "msg": "Runs are infrequent: median gap 38 min (GitHub throttling?)."
+   "msg": "Runs are infrequent: median gap 37 min (GitHub throttling?)."
   }
  ],
  "verdict": "attention"
