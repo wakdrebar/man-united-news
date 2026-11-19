@@ -1,51 +1,51 @@
 {
- "generated": "2026-11-19T12:30:47.494615+00:00",
+ "generated": "2026-11-19T12:45:38.822942+00:00",
  "window_days": 7,
- "runs": 190,
+ "runs": 191,
  "since": "2026-11-14T01:43:26.574663+00:00",
- "last_run": "2026-11-19T12:30:47.431131+00:00",
- "span_days": 5.4,
+ "last_run": "2026-11-19T12:45:38.752774+00:00",
+ "span_days": 5.5,
  "complete": false,
  "cadence_min": {
-  "median": 44.9,
+  "median": 44.6,
   "max": 163.7,
-  "runs_per_day": 34.9
+  "runs_per_day": 35.0
  },
  "sources": [
   {
    "name": "BBC Sport",
-   "runs": 190,
+   "runs": 191,
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 4.9,
+   "newest_article_hours": 5.1,
    "status": "ok"
   },
   {
    "name": "Manchester Evening News",
-   "runs": 190,
+   "runs": 191,
    "ok_pct": 100.0,
    "avg_items": 25,
    "consecutive_failures": 0,
-   "newest_article_hours": 0.2,
+   "newest_article_hours": 0.3,
    "status": "ok"
   },
   {
    "name": "Sky Sports",
-   "runs": 190,
+   "runs": 191,
    "ok_pct": 100.0,
    "avg_items": 1.5,
    "consecutive_failures": 0,
-   "newest_article_hours": 1.5,
+   "newest_article_hours": 1.8,
    "status": "ok"
   },
   {
    "name": "The Guardian",
-   "runs": 190,
+   "runs": 191,
    "ok_pct": 99.5,
    "avg_items": 19.9,
    "consecutive_failures": 0,
-   "newest_article_hours": 4.4,
+   "newest_article_hours": 0.1,
    "status": "ok"
   }
  ],
@@ -55,28 +55,28 @@
   "2026-11-16": 18,
   "2026-11-17": 25,
   "2026-11-18": 33,
-  "2026-11-19": 16
+  "2026-11-19": 17
  },
  "articles": {
-  "total": 270,
+  "total": 271,
   "by_kind": {
+   "news": 220,
    "live": 12,
-   "news": 219,
    "video": 36,
    "poll": 2,
    "gallery": 1
   },
   "by_source": {
+   "The Guardian": 36,
    "Manchester Evening News": 148,
    "Sky Sports": 36,
-   "The Guardian": 35,
    "BBC Sport": 51
   }
  },
  "issues": [
   {
    "level": "info",
-   "msg": "Collecting data: 5.4 of 7 days so far."
+   "msg": "Collecting data: 5.5 of 7 days so far."
   },
   {
    "level": "warn",
