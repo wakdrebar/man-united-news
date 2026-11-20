@@ -1,51 +1,51 @@
 {
- "generated": "2026-11-20T10:01:03.452017+00:00",
+ "generated": "2026-11-20T10:10:27.447063+00:00",
  "window_days": 7,
- "runs": 297,
+ "runs": 298,
  "since": "2026-11-14T01:43:26.574663+00:00",
- "last_run": "2026-11-20T10:01:03.353787+00:00",
- "span_days": 6.3,
+ "last_run": "2026-11-20T10:10:27.367142+00:00",
+ "span_days": 6.4,
  "complete": false,
  "cadence_min": {
   "median": 15.2,
   "max": 163.7,
-  "runs_per_day": 46.8
+  "runs_per_day": 46.9
  },
  "sources": [
   {
    "name": "BBC Sport",
-   "runs": 297,
+   "runs": 298,
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 1.8,
+   "newest_article_hours": 1.9,
    "status": "ok"
   },
   {
    "name": "Manchester Evening News",
-   "runs": 297,
+   "runs": 298,
    "ok_pct": 100.0,
    "avg_items": 25,
    "consecutive_failures": 0,
-   "newest_article_hours": 0.7,
+   "newest_article_hours": 0.2,
    "status": "ok"
   },
   {
    "name": "Sky Sports",
-   "runs": 297,
+   "runs": 298,
    "ok_pct": 100.0,
    "avg_items": 1.7,
    "consecutive_failures": 0,
-   "newest_article_hours": 0.8,
+   "newest_article_hours": 0.9,
    "status": "ok"
   },
   {
    "name": "The Guardian",
-   "runs": 297,
+   "runs": 298,
    "ok_pct": 99.7,
    "avg_items": 19.7,
    "consecutive_failures": 0,
-   "newest_article_hours": 0.0,
+   "newest_article_hours": 0.2,
    "status": "ok"
   }
  ],
@@ -56,20 +56,20 @@
   "2026-11-17": 25,
   "2026-11-18": 33,
   "2026-11-19": 31,
-  "2026-11-20": 9
+  "2026-11-20": 10
  },
  "articles": {
-  "total": 294,
+  "total": 295,
   "by_kind": {
    "news": 240,
+   "live": 14,
    "video": 38,
-   "live": 13,
    "poll": 2,
    "gallery": 1
   },
   "by_source": {
    "The Guardian": 37,
-   "Manchester Evening News": 160,
+   "Manchester Evening News": 161,
    "Sky Sports": 43,
    "BBC Sport": 54
   }
@@ -77,7 +77,7 @@
  "issues": [
   {
    "level": "info",
-   "msg": "Collecting data: 6.3 of 7 days so far."
+   "msg": "Collecting data: 6.4 of 7 days so far."
   }
  ],
  "verdict": "healthy"
