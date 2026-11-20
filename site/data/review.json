@@ -1,51 +1,51 @@
 {
- "generated": "2026-11-20T08:15:36.792992+00:00",
+ "generated": "2026-11-20T08:31:00.189801+00:00",
  "window_days": 7,
- "runs": 289,
+ "runs": 290,
  "since": "2026-11-14T01:43:26.574663+00:00",
- "last_run": "2026-11-20T08:15:36.709983+00:00",
+ "last_run": "2026-11-20T08:31:00.127493+00:00",
  "span_days": 6.3,
  "complete": false,
  "cadence_min": {
   "median": 15.2,
   "max": 163.7,
-  "runs_per_day": 46.1
+  "runs_per_day": 46.2
  },
  "sources": [
   {
    "name": "BBC Sport",
-   "runs": 289,
+   "runs": 290,
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 13.5,
+   "newest_article_hours": 0.3,
    "status": "ok"
   },
   {
    "name": "Manchester Evening News",
-   "runs": 289,
+   "runs": 290,
    "ok_pct": 100.0,
    "avg_items": 25,
    "consecutive_failures": 0,
-   "newest_article_hours": 0.7,
+   "newest_article_hours": 1.0,
    "status": "ok"
   },
   {
    "name": "Sky Sports",
-   "runs": 289,
+   "runs": 290,
    "ok_pct": 100.0,
    "avg_items": 1.7,
    "consecutive_failures": 0,
-   "newest_article_hours": 9.8,
+   "newest_article_hours": 10.0,
    "status": "ok"
   },
   {
    "name": "The Guardian",
-   "runs": 289,
+   "runs": 290,
    "ok_pct": 99.7,
    "avg_items": 19.8,
    "consecutive_failures": 0,
-   "newest_article_hours": 16.7,
+   "newest_article_hours": 17.0,
    "status": "ok"
   }
  ],
@@ -56,21 +56,21 @@
   "2026-11-17": 25,
   "2026-11-18": 33,
   "2026-11-19": 31,
-  "2026-11-20": 4
+  "2026-11-20": 5
  },
  "articles": {
-  "total": 289,
+  "total": 290,
   "by_kind": {
+   "video": 38,
    "live": 13,
    "news": 236,
-   "video": 37,
    "poll": 2,
    "gallery": 1
   },
   "by_source": {
+   "BBC Sport": 54,
    "Manchester Evening News": 158,
    "Sky Sports": 42,
-   "BBC Sport": 53,
    "The Guardian": 36
   }
  },
