@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-21T04:30:45.571386+00:00",
+ "generated": "2026-11-21T04:35:53.909899+00:00",
  "window_days": 7,
  "runs": 383,
- "since": "2026-11-14T04:32:41.504150+00:00",
- "last_run": "2026-11-21T04:30:45.490279+00:00",
+ "since": "2026-11-14T05:27:00.468716+00:00",
+ "last_run": "2026-11-21T04:35:53.827541+00:00",
  "span_days": 7.0,
  "complete": true,
  "cadence_min": {
   "median": 15.1,
   "max": 163.7,
-  "runs_per_day": 54.7
+  "runs_per_day": 55.0
  },
  "sources": [
   {
@@ -18,7 +18,7 @@
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 5.2,
+   "newest_article_hours": 5.3,
    "status": "ok"
   },
   {
@@ -27,7 +27,7 @@
    "ok_pct": 100.0,
    "avg_items": 25,
    "consecutive_failures": 0,
-   "newest_article_hours": 8.7,
+   "newest_article_hours": 8.8,
    "status": "ok"
   },
   {
@@ -36,7 +36,7 @@
    "ok_pct": 100.0,
    "avg_items": 1.7,
    "consecutive_failures": 0,
-   "newest_article_hours": 5.0,
+   "newest_article_hours": 5.1,
    "status": "ok"
   },
   {
@@ -45,7 +45,7 @@
    "ok_pct": 99.7,
    "avg_items": 19.6,
    "consecutive_failures": 0,
-   "newest_article_hours": 9.5,
+   "newest_article_hours": 9.6,
    "status": "ok"
   }
  ],
