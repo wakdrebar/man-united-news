@@ -1,5 +1,5 @@
 {
- "run": "2026-11-21T20:56:23.817313+00:00",
+ "run": "2026-11-21T21:01:03.651454+00:00",
  "new": 0,
  "sources": [
   {
@@ -14,8 +14,8 @@
   },
   {
    "source": "Manchester Evening News",
-   "ok": true,
-   "items": 25
+   "ok": false,
+   "error": "403 Client Error: Forbidden for url: https://www.manchestereveningnews.co.uk/all-about/manchester-united-fc?service=rss"
   },
   {
    "source": "Sky Sports",
