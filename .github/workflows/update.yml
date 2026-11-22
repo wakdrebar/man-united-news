@@ -29,6 +29,8 @@ jobs:
       - run: python -m pytest -q
       - name: Fetch news
         run: python ingest.py
+      - name: Group same-event articles for Whole story
+        run: python cluster.py
       - name: 7-day health review
         run: python review.py
       - name: Commit updated data

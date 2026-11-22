@@ -1,0 +1,166 @@
+{
+ "generated": "2026-11-22T09:38:57.205894+00:00",
+ "min_sources": 3,
+ "clusters": [
+  {
+   "id": "6542d2aa9c",
+   "sources": [
+    "BBC Sport",
+    "Manchester Evening News",
+    "Sky Sports"
+   ],
+   "size": 4,
+   "first": "2026-11-20T14:36:00+00:00",
+   "last": "2026-11-20T16:55:11+00:00",
+   "articles": [
+    {
+     "title": "Berrada on Carrick, Poch, defending club leadership and transfers",
+     "url": "https://www.skysports.com/football/news/12040/13614312/omar-berrada-interview-manchester-united-chief-executive-on-michael-carrick-mauricio-pochettino-recent-transfer-activity-and-the-club-hierarchy",
+     "source": "Sky Sports",
+     "published": "2026-11-20T14:36:00+00:00",
+     "summary": "In a turbulent time at Manchester United, chief executive Omar Berrada has sat down exclusively with Sky Sports about United's start to the season, the decision to change head coach and facing fan criticism about the club's leadership.",
+     "kind": "news"
+    },
+    {
+     "title": "Omar Berrada accepts criticism for Manchester United's failings",
+     "url": "https://www.manchestereveningnews.co.uk/sport/football/omar-berrada-accepts-criticism-manchester-34941642",
+     "source": "Manchester Evening News",
+     "published": "2026-11-20T15:23:04+00:00",
+     "summary": "Man Utd's CEO Omar Berrada has spoken publicly for the first time since June following Mauricio Pochettino's appointment.",
+     "kind": "news"
+    },
+    {
+     "title": "Manchester United CEO Omar Berrada breaks silence on Man City charges guilty verdict",
+     "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-ceo-omar-berrada-34941893",
+     "source": "Manchester Evening News",
+     "published": "2026-11-20T15:49:07+00:00",
+     "summary": "Man United's CEO Omar Berrada made the switch from the Etihad to Old Trafford two-and-a-half years ago.",
+     "kind": "news"
+    },
+    {
+     "title": "Man Utd fan criticism has gone too far at times - Berrada",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-20T16:55:11+00:00",
+     "summary": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
+     "kind": "news"
+    }
+   ]
+  },
+  {
+   "id": "a40986f959",
+   "sources": [
+    "BBC Sport",
+    "Manchester Evening News",
+    "Sky Sports",
+    "The Guardian"
+   ],
+   "size": 8,
+   "first": "2026-11-19T18:45:56+00:00",
+   "last": "2026-11-20T10:16:59+00:00",
+   "articles": [
+    {
+     "title": "Pochettino's first Man Utd training session filmed by drone operator",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-19T18:45:56+00:00",
+     "summary": "Mauricio Pochettino's first Manchester United training session has been filmed by fan with a drone from outside the club's Carrington training ground.",
+     "kind": "news"
+    },
+    {
+     "title": "Drone user reveals why he secretly filmed Mauricio Pochettino's Man United training session",
+     "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-drone-mauricio-pochettino-34939241",
+     "source": "Manchester Evening News",
+     "published": "2026-11-19T20:18:32+00:00",
+     "summary": "Mauricio Pochettino's first training session with Manchester United had an unwelcome visitor",
+     "kind": "news"
+    },
+    {
+     "title": "Drone footage of Pochettino's first Man Utd training session leaked online",
+     "url": "https://www.skysports.com/football/news/12040/13614159/manchester-united-drone-footage-of-mauricio-pochettinos-first-training-session-leaked-online",
+     "source": "Sky Sports",
+     "published": "2026-11-19T20:28:00+00:00",
+     "summary": "Mauricio Pochettino&#8217;s first Manchester United training session today has been leaked online in a major security breach.",
+     "kind": "news"
+    },
+    {
+     "title": "Has Man United team for Liverpool been leaked? What secret drone footage captured",
+     "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-drone-pochettino-liverpool-34939638",
+     "source": "Manchester Evening News",
+     "published": "2026-11-19T22:46:30+00:00",
+     "summary": "Footage of Manchester United's first session with Mauricio Pochettino has been shared on YouTube",
+     "kind": "news"
+    },
+    {
+     "title": "Drone operator takes down Man Utd footage and issues apology",
+     "url": "https://www.skysports.com/football/news/12040/13614271/manchester-united-drone-operator-removes-training-footage-of-mauricio-pochettinos-first-training-session-and-apologises",
+     "source": "Sky Sports",
+     "published": "2026-11-20T09:15:00+00:00",
+     "summary": "The drone operator who posted footage of Mauricio Pochettino's first training session at Manchester United on YouTube has said he has now removed the video.",
+     "kind": "news"
+    },
+    {
+     "title": "Four things spotted in drone footage of Mauricio Pochettino's first Man United training session",
+     "url": "https://www.manchestereveningnews.co.uk/sport/football/four-things-spotted-drone-footage-34939991",
+     "source": "Manchester Evening News",
+     "published": "2026-11-20T09:21:57+00:00",
+     "summary": "Mauricio Pochettino's first Manchester United training session was controversially recorded by a drone operator on Thursday morning.",
+     "kind": "news"
+    },
+    {
+     "title": "Drone operator sorry for filming Pochettino’s first Manchester United training session",
+     "url": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-drone",
+     "source": "The Guardian",
+     "published": "2026-11-20T10:00:04+00:00",
+     "summary": "Operator removes video from his channel ‘I fully accept it was unethical,’ he says A drone operator who filmed Mauricio Pochettino’s first ⁠Manchester United training ⁠session on Thursday has apologised for what he called a “total error of judgment” and removed ⁠the footage from ⁠his ​YouTube channel. The footage was uploaded online under the username “CC OVERVIEW”. In a statement posted on his Yo",
+     "kind": "news"
+    },
+    {
+     "title": "Drone pilot sends Mauricio Pochettino message after secretly filming Man United training",
+     "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-drone-mauricio-pochettino-34940590",
+     "source": "Manchester Evening News",
+     "published": "2026-11-20T10:16:59+00:00",
+     "summary": "Mauricio Pochettino's first Manchester United training session was filmed by a drone operator and a message has been sent to the new boss",
+     "kind": "news"
+    }
+   ]
+  },
+  {
+   "id": "298141bb2e",
+   "sources": [
+    "BBC Sport",
+    "Sky Sports",
+    "The Guardian"
+   ],
+   "size": 3,
+   "first": "2026-11-17T14:09:19+00:00",
+   "last": "2026-11-17T17:13:23+00:00",
+   "articles": [
+    {
+     "title": "Rooney says he considered taking his own life at Man Utd",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-17T14:09:19+00:00",
+     "summary": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+     "kind": "news"
+    },
+    {
+     "title": "Rooney contemplated suicide at ‘lowest point’ of Man Utd career",
+     "url": "https://www.skysports.com/football/news/12040/13613275/wayne-rooney-says-he-contemplated-suicide-during-lowest-point-of-manchester-united-career",
+     "source": "Sky Sports",
+     "published": "2026-11-17T14:36:00+00:00",
+     "summary": "Wayne Rooney has revealed there was a period in his Manchester United career where he contemplated suicide.",
+     "kind": "news"
+    },
+    {
+     "title": "Wayne Rooney says he contemplated taking own life during playing career",
+     "url": "https://www.theguardian.com/football/2026/nov/17/wayne-rooney-contemplated-taking-own-life-during-playing-career-mental-health",
+     "source": "The Guardian",
+     "published": "2026-11-17T17:13:23+00:00",
+     "summary": "Former England footballer opens up on mental health ‘It was probably the lowest point’ at Manchester United Wayne Rooney has revealed there was a period in his Manchester United career where he contemplated taking his own life. The former England striker said that, even as he flourished on the pitch, he was struggling with his mental health off it, despite being newly married and a dad to his elde",
+     "kind": "news"
+    }
+   ]
+  }
+ ]
+}
