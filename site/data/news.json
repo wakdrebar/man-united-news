@@ -1,14 +1,41 @@
 {
- "updated": "2026-11-22T14:45:35.409856+00:00",
+ "updated": "2026-11-22T15:00:45.906948+00:00",
  "articles": [
   {
-   "title": "Liverpool vs Manchester United LIVE early team news as Mauricio Pochettino faces huge early calls",
+   "title": "Liverpool v Manchester United: Premier League – live",
+   "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
+   "source": "The Guardian",
+   "published": "2026-11-22T15:00:30+00:00",
+   "summary": "Premier League updates from the 4.30pm GMT kick-off Live scores | Latest table | And follow us over on TikTok The first day in a new job is supposed to be gentle and relaxed: small talk, smaller admin, a few bits of work and some lamentably awkward handshakes. Mauricio Pochettino’s first day* as Manchester United manager is the polar opposite. Liverpool away, the ultimate domestic challenge for an",
+   "image": "https://i.guim.co.uk/img/media/5b87d2c689e211d547af7c1412df6936c0dd4dcd/504_0_7560_6048/master/7560.jpg?width=140&quality=85&auto=format&fit=max&s=dbe517472ecb0c7e4ee2756e34f13ef5",
+   "kind": "live"
+  },
+  {
+   "title": "Which three players who will thrive the most under Pochettino?",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cq4gn851xkzzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-22T14:52:48+00:00",
+   "summary": "Which three players who will thrive the most under Pochettino?",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b7/live/4afd93c0-e684-11f1-a094-5fdc692f3e33.jpg",
+   "kind": "video"
+  },
+  {
+   "title": "Liverpool vs Manchester United LIVE team news as Mauricio Pochettino to make huge early calls",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/liverpool-vs-manchester-united-live-34944225",
    "source": "Manchester Evening News",
-   "published": "2026-11-22T13:35:25+00:00",
+   "published": "2026-11-22T14:52:43+00:00",
    "summary": "Mauricio Pochettino will take charge of his first Man United game today as his side face Liverpool in the Premier League.",
    "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34950135.ece/ALTERNATES/s98/0_Untitled.jpg",
    "kind": "live"
+  },
+  {
+   "title": "What Bruno Fernandes was told by Mauricio Pochettino before he joined Man United",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/what-bruno-fernandes-told-mauricio-34950277",
+   "source": "Manchester Evening News",
+   "published": "2026-11-22T14:42:28+00:00",
+   "summary": "Man United captain Bruno Fernandes nearly joined Tottenham back in 2019 and he has opened up on the chats he held with Spurs before his move to Old Trafford.",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34950278.ece/ALTERNATES/s98/0_GettyImages-2305916504.jpg",
+   "kind": "news"
   },
   {
    "title": "Liverpool vs Man United TV channel, live stream and kick-off time",
@@ -227,21 +254,21 @@
    "kind": "news"
   },
   {
-   "title": "Mauricio Pochettino's three new Man United rules as new boss stamps his authority",
-   "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-mauricio-pochettino-rules-34946143",
-   "source": "Manchester Evening News",
-   "published": "2026-11-21T05:00:00+00:00",
-   "summary": "Mauricio Pochettino has already outlined what he expects from his Manchester United players",
-   "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article34944086.ece/ALTERNATES/s98/1_GettyImages-2306035303.jpg",
-   "kind": "news"
-  },
-  {
    "title": "Transfer plans, training change and Dorgu hope - Manchester United Notebook",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-plans-training-change-dorgu-34934661",
    "source": "Manchester Evening News",
    "published": "2026-11-21T05:00:00+00:00",
    "summary": "It's the start of a new era at Man Utd with Mauricio Pochettino taking over as the club's head coach this week.",
    "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34944482.ece/ALTERNATES/s98/0_premium-canvas-1795190827586.png",
+   "kind": "news"
+  },
+  {
+   "title": "Mauricio Pochettino's three new Man United rules as new boss stamps his authority",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-mauricio-pochettino-rules-34946143",
+   "source": "Manchester Evening News",
+   "published": "2026-11-21T05:00:00+00:00",
+   "summary": "Mauricio Pochettino has already outlined what he expects from his Manchester United players",
+   "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article34944086.ece/ALTERNATES/s98/1_GettyImages-2306035303.jpg",
    "kind": "news"
   },
   {
