@@ -67,15 +67,41 @@ No server and no database. The data is JSON files in `site/data/`.
   (cron-job.org) calls the workflow's `workflow_dispatch` every 15 minutes using a fine-grained GitHub token
   limited to this repo (Actions: read and write). **The token expires on 2027-02-17**; after that the timer gets
   HTTP 401 and the app falls back to hourly updates. The owner should make a new token before then.
+  The timer is verified working (see Status).
 - About 1% of runs fail at the GitHub Pages deploy step with "No artifacts named github-pages were found". This is a
   temporary GitHub-side glitch, the next run recovers, and the owner chose **not** to add a retry.
 - Skipped on purpose: copying full article text (copyright), unfiltered BBC/MEN feeds (they are already United-specific).
 
+## Status (as of 22 Nov 2026)
+Phases 1 to 3 are done and deployed: ingestion, automation, and the installable web app. Verified:
+- The owner has the app running on an iPhone and it looks right.
+- **First full 7-day review (15 to 22 Nov): healthy.** 495 runs recorded, all four sources at 99.8 to 100% success, no issues flagged.
+- **Run frequency fixed:** since the cron-job.org timer started (19 Nov), 407 consecutive runs were a median 14.7 min apart, never more than 15. Before it, GitHub's schedule alone left gaps of up to 164 min.
+- 341 articles stored: 280 news, 43 video, 15 live, 2 polls, 1 gallery. New articles per day: roughly 9 to 34.
+- Manchester Evening News supplies most items (189 of 341); the Guardian the fewest (40). Sky returns only about 1 or 2 United items per run, since its feed is general sport.
+- 12 tests pass.
+
 ## Still to do
-1. Check on a real phone that "Add to Home Screen" works (the iPhone view of the app has been confirmed).
-2. After a week of data, read the health page and tune filters (missed or off-topic stories).
-3. Maybe add a README for the repo.
+1. Check "Add to Home Screen" on the iPhone (the web page itself is confirmed working there).
+2. Tune filters from real output: look for missed or off-topic stories now that a full week of data exists.
+3. Consider a README for the repo, and a deploy retry (the owner declined the retry once; ask again only if failures become more frequent).
 4. Phase 5 features, one at a time: transfer-rumour tags, fixtures and results, push notifications, search and bookmarks.
+5. Before 17 Feb 2027: replace the expiring GitHub token in cron-job.org.
+
+## Setting up on the owner's MacBook (macOS)
+**If the owner says they are on macOS (or a MacBook), walk them through this step by step in plain language.**
+Give one step at a time, say what they should see, and wait for them to confirm before the next step. They are not technical.
+1. Open the Terminal app (press Cmd+Space, type "Terminal", press Enter).
+2. Install Homebrew if missing: `brew --version` shows whether it is installed. If not, send them to https://brew.sh for the install command.
+3. `brew install git gh python`
+4. `gh auth login`, choose GitHub.com, HTTPS, then "Login with a web browser". They copy the one-time code shown in Terminal, sign in as **wakdrebar** in the browser, and paste the code. (The code is a code to type into a GitHub page after signing in, not a password.)
+5. `gh repo clone wakdrebar/man-united-news`, then `cd man-united-news`
+6. `git config user.name wakdrebar` and set the GitHub noreply email (see rule 7 above) so the repo stays free of personal email.
+7. `pip3 install -r requirements.txt pytest`, then `python3 -m pytest -q` (expect all tests to pass).
+8. Preview: `python3 -m http.server 8765 --directory site`, then open http://localhost:8765 in Safari. Ctrl+C stops it.
+9. Open the folder in Claude Code (desktop app, Code tab) so a session starts here with this file loaded.
+Daily routine on either computer: `git pull` before starting, then `git add -A`, `git commit -m "..."`, `git push` when done.
+Note the chat history does not move between computers; this file is how a new session catches up. Update it after big changes.
 
 ## About the owner
 Not highly technical. Prefers step-by-step explanations in plain language, and iterative development: get each
