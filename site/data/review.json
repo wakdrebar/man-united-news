@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-22T04:00:51.650670+00:00",
+ "generated": "2026-11-22T04:15:32.163266+00:00",
  "window_days": 7,
- "runs": 473,
+ "runs": 474,
  "since": "2026-11-15T04:29:06.803051+00:00",
- "last_run": "2026-11-22T04:00:51.571136+00:00",
+ "last_run": "2026-11-22T04:15:32.063305+00:00",
  "span_days": 7.0,
  "complete": true,
  "cadence_min": {
@@ -14,38 +14,38 @@
  "sources": [
   {
    "name": "BBC Sport",
-   "runs": 473,
+   "runs": 474,
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 12.8,
+   "newest_article_hours": 13.0,
    "status": "ok"
   },
   {
    "name": "Manchester Evening News",
-   "runs": 473,
+   "runs": 474,
    "ok_pct": 99.8,
    "avg_items": 25,
    "consecutive_failures": 0,
-   "newest_article_hours": 5.7,
+   "newest_article_hours": 0.3,
    "status": "ok"
   },
   {
    "name": "Sky Sports",
-   "runs": 473,
+   "runs": 474,
    "ok_pct": 100.0,
    "avg_items": 1.4,
    "consecutive_failures": 0,
-   "newest_article_hours": 28.5,
+   "newest_article_hours": 28.8,
    "status": "warn"
   },
   {
    "name": "The Guardian",
-   "runs": 473,
+   "runs": 474,
    "ok_pct": 99.8,
    "avg_items": 19.4,
    "consecutive_failures": 0,
-   "newest_article_hours": 8.0,
+   "newest_article_hours": 8.3,
    "status": "ok"
   }
  ],
@@ -57,19 +57,19 @@
   "2026-11-19": 31,
   "2026-11-20": 34,
   "2026-11-21": 13,
-  "2026-11-22": 0
+  "2026-11-22": 1
  },
  "articles": {
-  "total": 332,
+  "total": 333,
   "by_kind": {
-   "news": 271,
+   "news": 272,
    "video": 43,
    "live": 15,
    "poll": 2,
    "gallery": 1
   },
   "by_source": {
-   "Manchester Evening News": 183,
+   "Manchester Evening News": 184,
    "The Guardian": 40,
    "BBC Sport": 62,
    "Sky Sports": 47
@@ -78,7 +78,7 @@
  "issues": [
   {
    "level": "warn",
-   "msg": "Sky Sports: fetched OK but returned 0 items in the last 83 runs (feed format change or filter too strict?)."
+   "msg": "Sky Sports: fetched OK but returned 0 items in the last 84 runs (feed format change or filter too strict?)."
   }
  ],
  "verdict": "attention"
