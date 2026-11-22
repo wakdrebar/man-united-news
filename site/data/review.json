@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-22T10:45:31.622363+00:00",
+ "generated": "2026-11-22T11:00:58.104940+00:00",
  "window_days": 7,
  "runs": 503,
- "since": "2026-11-15T10:53:02.327764+00:00",
- "last_run": "2026-11-22T10:45:31.475235+00:00",
+ "since": "2026-11-15T11:29:31.971001+00:00",
+ "last_run": "2026-11-22T11:00:57.955076+00:00",
  "span_days": 7.0,
  "complete": true,
  "cadence_min": {
   "median": 14.8,
   "max": 163.7,
-  "runs_per_day": 71.9
+  "runs_per_day": 72.1
  },
  "sources": [
   {
@@ -18,7 +18,7 @@
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 2.1,
+   "newest_article_hours": 2.3,
    "status": "ok"
   },
   {
@@ -27,7 +27,7 @@
    "ok_pct": 99.8,
    "avg_items": 25,
    "consecutive_failures": 0,
-   "newest_article_hours": 2.5,
+   "newest_article_hours": 2.8,
    "status": "ok"
   },
   {
@@ -36,7 +36,7 @@
    "ok_pct": 100.0,
    "avg_items": 1.4,
    "consecutive_failures": 0,
-   "newest_article_hours": 3.8,
+   "newest_article_hours": 4.0,
    "status": "ok"
   },
   {
@@ -50,7 +50,7 @@
   }
  ],
  "new_per_day": {
-  "2026-11-15": 7,
+  "2026-11-15": 5,
   "2026-11-16": 18,
   "2026-11-17": 25,
   "2026-11-18": 33,
