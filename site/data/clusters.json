@@ -1,7 +1,44 @@
 {
- "generated": "2026-11-22T11:30:44.974751+00:00",
+ "generated": "2026-11-22T11:45:36.138554+00:00",
  "min_sources": 3,
  "clusters": [
+  {
+   "id": "dc1af45b9a",
+   "sources": [
+    "BBC Sport",
+    "Sky Sports",
+    "The Guardian"
+   ],
+   "size": 3,
+   "first": "2026-11-22T07:00:00+00:00",
+   "last": "2026-11-22T11:33:54+00:00",
+   "articles": [
+    {
+     "title": "Fernandes: Man Utd have offered new deal but now is not time for talks",
+     "url": "https://www.skysports.com/football/news/12040/13614990/bruno-fernandes-man-utd-captain-confirms-contract-offer-but-says-negotiations-are-on-hold",
+     "source": "Sky Sports",
+     "published": "2026-11-22T07:00:00+00:00",
+     "summary": "Bruno Fernandes exclusively told Sky Sports that Manchester United have offered him a new contract but he has put discussions on hold as he insists the club's priority must be returning to winning ways.",
+     "kind": "news"
+    },
+    {
+     "title": "'Not the right time' - Fernandes pauses Man Utd contract talks",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-22T08:41:20+00:00",
+     "summary": "Manchester United captain Bruno Fernandes says he has been offered a new contract by the club but feels it \"is not the right time\" for discussions about his future.",
+     "kind": "news"
+    },
+    {
+     "title": "Bruno Fernandes reveals talks over new Manchester United contract are on hold",
+     "url": "https://www.theguardian.com/football/2026/nov/22/bruno-fernandes-reveals-talks-over-new-manchester-united-contract-are-on-hold",
+     "source": "The Guardian",
+     "published": "2026-11-22T11:33:54+00:00",
+     "summary": "Club captain confirms he has been offered a new deal ‘Not the right moment to be talking about negotiations’ Bruno Fernandes has revealed that Manchester United have offered him a new contract, but discussions have been ⁠put on hold as the club focuses on turning around its terrible start to the season. Fernandes’ current deal expires at the end of this campaign, although United ⁠hold an ​option t",
+     "kind": "news"
+    }
+   ]
+  },
   {
    "id": "6542d2aa9c",
    "sources": [
