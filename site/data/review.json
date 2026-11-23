@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-23T22:45:46.444976+00:00",
+ "generated": "2026-11-23T23:01:04.759016+00:00",
  "window_days": 7,
- "runs": 647,
+ "runs": 648,
  "since": "2026-11-16T23:13:57.898228+00:00",
- "last_run": "2026-11-23T22:45:46.261160+00:00",
+ "last_run": "2026-11-23T23:01:04.555055+00:00",
  "span_days": 7.0,
  "complete": true,
  "cadence_min": {
@@ -14,38 +14,38 @@
  "sources": [
   {
    "name": "BBC Sport",
-   "runs": 647,
+   "runs": 648,
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 5.8,
+   "newest_article_hours": 6.1,
    "status": "ok"
   },
   {
    "name": "Manchester Evening News",
-   "runs": 647,
+   "runs": 648,
    "ok_pct": 99.7,
    "avg_items": 25,
    "consecutive_failures": 0,
-   "newest_article_hours": 0.5,
+   "newest_article_hours": 0.7,
    "status": "ok"
   },
   {
    "name": "Sky Sports",
-   "runs": 647,
+   "runs": 648,
    "ok_pct": 100.0,
    "avg_items": 1.8,
    "consecutive_failures": 0,
-   "newest_article_hours": 3.0,
+   "newest_article_hours": 0.4,
    "status": "ok"
   },
   {
    "name": "The Guardian",
-   "runs": 647,
-   "ok_pct": 95.4,
+   "runs": 648,
+   "ok_pct": 95.2,
    "avg_items": 19.3,
-   "consecutive_failures": 29,
-   "newest_article_hours": 7.0,
+   "consecutive_failures": 30,
+   "newest_article_hours": 7.3,
    "status": "warn"
   }
  ],
@@ -57,20 +57,20 @@
   "2026-11-20": 34,
   "2026-11-21": 13,
   "2026-11-22": 50,
-  "2026-11-23": 29
+  "2026-11-23": 30
  },
  "articles": {
-  "total": 411,
+  "total": 412,
   "by_kind": {
+   "news": 331,
    "live": 21,
-   "news": 330,
    "video": 56,
    "poll": 3,
    "gallery": 1
   },
   "by_source": {
+   "Sky Sports": 61,
    "Manchester Evening News": 221,
-   "Sky Sports": 60,
    "BBC Sport": 81,
    "The Guardian": 49
   }
@@ -78,7 +78,7 @@
  "issues": [
   {
    "level": "warn",
-   "msg": "The Guardian: failing for the last 29 runs."
+   "msg": "The Guardian: failing for the last 30 runs."
   }
  ],
  "verdict": "attention"
