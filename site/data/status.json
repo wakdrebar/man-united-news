@@ -1,6 +1,6 @@
 {
- "run": "2026-11-23T16:45:37.507733+00:00",
- "new": 0,
+ "run": "2026-11-23T17:01:05.603787+00:00",
+ "new": 3,
  "sources": [
   {
    "source": "BBC Sport",
@@ -9,8 +9,8 @@
   },
   {
    "source": "The Guardian",
-   "ok": true,
-   "items": 19
+   "ok": false,
+   "error": "403 Client Error: Forbidden for url: https://www.theguardian.com/football/manchester-united/rss"
   },
   {
    "source": "Manchester Evening News",
