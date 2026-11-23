@@ -1,7 +1,44 @@
 {
- "generated": "2026-11-23T12:45:34.113489+00:00",
+ "generated": "2026-11-23T12:57:48.574646+00:00",
  "min_sources": 3,
  "clusters": [
+  {
+   "id": "65cced726e",
+   "sources": [
+    "BBC Sport",
+    "Manchester Evening News",
+    "Sky Sports"
+   ],
+   "size": 3,
+   "first": "2026-11-22T17:55:54+00:00",
+   "last": "2026-11-23T12:52:31+00:00",
+   "articles": [
+    {
+     "title": "The red card that changed Liverpool-Man Utd: correct call?",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-22T17:55:54+00:00",
+     "summary": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
+     "kind": "news"
+    },
+    {
+     "title": "Man Utd to appeal Yoro red card",
+     "url": "https://www.skysports.com/football/news/12040/13615539/manchester-united-to-appeal-leny-yoros-red-card-as-ex-pl-referee-dermot-gallagehr-casts-his-verdict",
+     "source": "Sky Sports",
+     "published": "2026-11-23T12:30:00+00:00",
+     "summary": "Manchester United have notified the FA of their intention to appeal Leny Yoro's red card against Liverpool.",
+     "kind": "news"
+    },
+    {
+     "title": "Man United to launch Leny Yoro red card appeal with Mauricio Pochettino furious",
+     "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/yoro-red-card-liverpool-united-34953843",
+     "source": "Manchester Evening News",
+     "published": "2026-11-23T12:52:31+00:00",
+     "summary": "Leny Yoro was sent off just eight minutes into Manchester United's 4-0 loss to Liverpool on Sunday evening for bringing down Alexander Isak as the last man back",
+     "kind": "news"
+    }
+   ]
+  },
   {
    "id": "dc1af45b9a",
    "sources": [
