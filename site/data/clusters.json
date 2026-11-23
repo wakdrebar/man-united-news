@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T13:15:33.892656+00:00",
+ "generated": "2026-11-23T13:30:45.288569+00:00",
  "min_sources": 3,
  "clusters": [
   {
@@ -7,11 +7,12 @@
    "sources": [
     "BBC Sport",
     "Manchester Evening News",
-    "Sky Sports"
+    "Sky Sports",
+    "The Guardian"
    ],
-   "size": 3,
+   "size": 4,
    "first": "2026-11-22T17:55:54+00:00",
-   "last": "2026-11-23T12:52:31+00:00",
+   "last": "2026-11-23T13:30:01+00:00",
    "articles": [
     {
      "title": "The red card that changed Liverpool-Man Utd: correct call?",
@@ -35,6 +36,14 @@
      "source": "Manchester Evening News",
      "published": "2026-11-23T12:52:31+00:00",
      "summary": "Leny Yoro was sent off just eight minutes into Manchester United's 4-0 loss to Liverpool on Sunday evening for bringing down Alexander Isak as the last man back",
+     "kind": "news"
+    },
+    {
+     "title": "Manchester United to appeal against Leny Yoro red card in defeat by Liverpool",
+     "url": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
+     "source": "The Guardian",
+     "published": "2026-11-23T13:30:01+00:00",
+     "summary": "Mauricio Pochettino said after game it was ‘never a foul’ ‘No one’s coming to save us,’ admits Kobbie Mainoo Manchester United intend to appeal against the red card Leny Yoro received in the eighth minute of the 4-0 defeat at Liverpool on Sunday. The defender was dismissed after fouling Alexander Isak outside the penalty area but Mauricio Pochettino believes the striker would not have reached the ",
      "kind": "news"
     }
    ]
