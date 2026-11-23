@@ -1,50 +1,50 @@
 {
- "generated": "2026-11-23T22:15:45.610074+00:00",
+ "generated": "2026-11-23T22:18:42.745004+00:00",
  "window_days": 7,
- "runs": 645,
+ "runs": 646,
  "since": "2026-11-16T22:24:37.541737+00:00",
- "last_run": "2026-11-23T22:15:45.434407+00:00",
+ "last_run": "2026-11-23T22:18:42.558632+00:00",
  "span_days": 7.0,
  "complete": true,
  "cadence_min": {
   "median": 14.8,
   "max": 86.1,
-  "runs_per_day": 92.2
+  "runs_per_day": 92.3
  },
  "sources": [
   {
    "name": "BBC Sport",
-   "runs": 645,
+   "runs": 646,
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 5.3,
+   "newest_article_hours": 5.4,
    "status": "ok"
   },
   {
    "name": "Manchester Evening News",
-   "runs": 645,
+   "runs": 646,
    "ok_pct": 99.7,
    "avg_items": 25,
    "consecutive_failures": 0,
-   "newest_article_hours": 4.1,
+   "newest_article_hours": 0.2,
    "status": "ok"
   },
   {
    "name": "Sky Sports",
-   "runs": 645,
+   "runs": 646,
    "ok_pct": 100.0,
    "avg_items": 1.8,
    "consecutive_failures": 0,
-   "newest_article_hours": 2.5,
+   "newest_article_hours": 2.6,
    "status": "ok"
   },
   {
    "name": "The Guardian",
-   "runs": 645,
-   "ok_pct": 95.8,
+   "runs": 646,
+   "ok_pct": 95.7,
    "avg_items": 19.3,
-   "consecutive_failures": 26,
+   "consecutive_failures": 27,
    "newest_article_hours": 6.5,
    "status": "warn"
   }
@@ -57,20 +57,20 @@
   "2026-11-20": 34,
   "2026-11-21": 13,
   "2026-11-22": 50,
-  "2026-11-23": 28
+  "2026-11-23": 29
  },
  "articles": {
-  "total": 410,
+  "total": 411,
   "by_kind": {
-   "news": 329,
+   "news": 330,
    "video": 56,
    "live": 21,
    "poll": 3,
    "gallery": 1
   },
   "by_source": {
+   "Manchester Evening News": 221,
    "Sky Sports": 60,
-   "Manchester Evening News": 220,
    "BBC Sport": 81,
    "The Guardian": 49
   }
@@ -78,7 +78,7 @@
  "issues": [
   {
    "level": "warn",
-   "msg": "The Guardian: failing for the last 26 runs."
+   "msg": "The Guardian: failing for the last 27 runs."
   }
  ],
  "verdict": "attention"
