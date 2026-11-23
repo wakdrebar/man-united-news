@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-23T19:45:49.932288+00:00",
+ "generated": "2026-11-23T20:01:00.344323+00:00",
  "window_days": 7,
  "runs": 636,
- "since": "2026-11-16T19:53:03.079224+00:00",
- "last_run": "2026-11-23T19:45:49.599251+00:00",
+ "since": "2026-11-16T20:40:29.790256+00:00",
+ "last_run": "2026-11-23T20:01:00.221551+00:00",
  "span_days": 7.0,
  "complete": true,
  "cadence_min": {
   "median": 14.8,
   "max": 86.1,
-  "runs_per_day": 90.9
+  "runs_per_day": 91.2
  },
  "sources": [
   {
@@ -18,7 +18,7 @@
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 2.8,
+   "newest_article_hours": 3.1,
    "status": "ok"
   },
   {
@@ -27,7 +27,7 @@
    "ok_pct": 99.7,
    "avg_items": 25,
    "consecutive_failures": 0,
-   "newest_article_hours": 1.6,
+   "newest_article_hours": 1.9,
    "status": "ok"
   },
   {
@@ -36,49 +36,49 @@
    "ok_pct": 100.0,
    "avg_items": 1.8,
    "consecutive_failures": 0,
-   "newest_article_hours": 3.5,
+   "newest_article_hours": 0.3,
    "status": "ok"
   },
   {
    "name": "The Guardian",
    "runs": 636,
-   "ok_pct": 97.6,
+   "ok_pct": 97.5,
    "avg_items": 19.3,
-   "consecutive_failures": 14,
-   "newest_article_hours": 4.0,
+   "consecutive_failures": 15,
+   "newest_article_hours": 4.3,
    "status": "warn"
   }
  ],
  "new_per_day": {
-  "2026-11-16": 3,
+  "2026-11-16": 2,
   "2026-11-17": 25,
   "2026-11-18": 33,
   "2026-11-19": 31,
   "2026-11-20": 34,
   "2026-11-21": 13,
   "2026-11-22": 50,
-  "2026-11-23": 27
+  "2026-11-23": 28
  },
  "articles": {
-  "total": 409,
+  "total": 410,
   "by_kind": {
-   "news": 328,
+   "news": 329,
    "video": 56,
    "live": 21,
    "poll": 3,
    "gallery": 1
   },
   "by_source": {
+   "Sky Sports": 60,
    "Manchester Evening News": 220,
    "BBC Sport": 81,
-   "Sky Sports": 59,
    "The Guardian": 49
   }
  },
  "issues": [
   {
    "level": "warn",
-   "msg": "The Guardian: failing for the last 14 runs."
+   "msg": "The Guardian: failing for the last 15 runs."
   }
  ],
  "verdict": "attention"
