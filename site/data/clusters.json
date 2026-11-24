@@ -1,17 +1,18 @@
 {
- "generated": "2026-11-24T15:52:02.766053+00:00",
+ "generated": "2026-11-24T16:01:06.967929+00:00",
  "min_sources": 3,
  "clusters": [
   {
    "id": "2a16a99f19",
    "sources": [
+    "BBC Sport",
     "Manchester Evening News",
     "Sky Sports",
     "The Guardian"
    ],
-   "size": 6,
+   "size": 7,
    "first": "2026-11-23T11:19:43+00:00",
-   "last": "2026-11-24T15:34:00+00:00",
+   "last": "2026-11-24T15:59:59+00:00",
    "articles": [
     {
      "title": "Man United get unanimous Leny Yoro red card verdict after controversial VAR check",
@@ -59,6 +60,14 @@
      "source": "Sky Sports",
      "published": "2026-11-24T15:34:00+00:00",
      "summary": "Leny Yoro's red card against Liverpool has been overturned following a successful appeal from Manchester United.",
+     "kind": "news"
+    },
+    {
+     "title": "Man Utd's Yoro has Anfield red card overturned",
+     "url": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-24T15:59:59+00:00",
+     "summary": "Manchester United defender Leny Yoro is clear to face Brentford on Saturday as his red card at Anfield is overturned.",
      "kind": "news"
     }
    ]
