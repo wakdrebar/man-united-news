@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-24T18:45:45.497622+00:00",
+ "generated": "2026-11-24T19:01:09.821087+00:00",
  "window_days": 7,
- "runs": 724,
+ "runs": 725,
  "since": "2026-11-17T19:42:50.194213+00:00",
- "last_run": "2026-11-24T18:45:45.297401+00:00",
+ "last_run": "2026-11-24T19:01:09.652008+00:00",
  "span_days": 7.0,
  "complete": true,
  "cadence_min": {
@@ -14,38 +14,38 @@
  "sources": [
   {
    "name": "BBC Sport",
-   "runs": 724,
+   "runs": 725,
    "ok_pct": 100.0,
    "avg_items": 24,
+   "consecutive_failures": 0,
+   "newest_article_hours": 2.0,
+   "status": "ok"
+  },
+  {
+   "name": "Manchester Evening News",
+   "runs": 725,
+   "ok_pct": 99.7,
+   "avg_items": 25,
+   "consecutive_failures": 0,
+   "newest_article_hours": 0.5,
+   "status": "ok"
+  },
+  {
+   "name": "Sky Sports",
+   "runs": 725,
+   "ok_pct": 100.0,
+   "avg_items": 1.9,
    "consecutive_failures": 0,
    "newest_article_hours": 1.8,
    "status": "ok"
   },
   {
-   "name": "Manchester Evening News",
-   "runs": 724,
-   "ok_pct": 99.7,
-   "avg_items": 25,
-   "consecutive_failures": 0,
-   "newest_article_hours": 0.2,
-   "status": "ok"
-  },
-  {
-   "name": "Sky Sports",
-   "runs": 724,
-   "ok_pct": 100.0,
-   "avg_items": 1.9,
-   "consecutive_failures": 0,
-   "newest_article_hours": 1.5,
-   "status": "ok"
-  },
-  {
    "name": "The Guardian",
-   "runs": 724,
-   "ok_pct": 82.5,
+   "runs": 725,
+   "ok_pct": 82.3,
    "avg_items": 19.2,
-   "consecutive_failures": 126,
-   "newest_article_hours": 27.0,
+   "consecutive_failures": 127,
+   "newest_article_hours": 27.3,
    "status": "warn"
   }
  ],
@@ -78,11 +78,11 @@
  "issues": [
   {
    "level": "warn",
-   "msg": "The Guardian: failing for the last 126 runs."
+   "msg": "The Guardian: failing for the last 127 runs."
   },
   {
    "level": "warn",
-   "msg": "The Guardian: only 82.5% of runs succeeded."
+   "msg": "The Guardian: only 82.3% of runs succeeded."
   }
  ],
  "verdict": "attention"
