@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T22:45:46.338755+00:00",
+ "generated": "2026-11-24T23:01:10.778301+00:00",
  "min_sources": 3,
  "clusters": [
   {
@@ -121,51 +121,6 @@
      "source": "The Guardian",
      "published": "2026-11-22T11:33:54+00:00",
      "summary": "Club captain confirms he has been offered a new deal ‘Not the right moment to be talking about negotiations’ Bruno Fernandes has revealed that Manchester United have offered him a new contract, but discussions have been ⁠put on hold as the club focus on turning around their terrible start to the season. Fernandes’s current deal expires at the end of this campaign, although United ⁠hold an ​option ",
-     "kind": "news"
-    }
-   ]
-  },
-  {
-   "id": "6542d2aa9c",
-   "sources": [
-    "BBC Sport",
-    "Manchester Evening News",
-    "Sky Sports"
-   ],
-   "size": 4,
-   "first": "2026-11-20T14:36:00+00:00",
-   "last": "2026-11-20T16:55:11+00:00",
-   "articles": [
-    {
-     "title": "Berrada on Carrick, Poch, defending club leadership and transfers",
-     "url": "https://www.skysports.com/football/news/12040/13614312/omar-berrada-interview-manchester-united-chief-executive-on-michael-carrick-mauricio-pochettino-recent-transfer-activity-and-the-club-hierarchy",
-     "source": "Sky Sports",
-     "published": "2026-11-20T14:36:00+00:00",
-     "summary": "In a turbulent time at Manchester United, chief executive Omar Berrada has sat down exclusively with Sky Sports about United's start to the season, the decision to change head coach and facing fan criticism about the club's leadership.",
-     "kind": "news"
-    },
-    {
-     "title": "Omar Berrada accepts criticism for Manchester United's failings",
-     "url": "https://www.manchestereveningnews.co.uk/sport/football/omar-berrada-accepts-criticism-manchester-34941642",
-     "source": "Manchester Evening News",
-     "published": "2026-11-20T15:23:04+00:00",
-     "summary": "Man Utd's CEO Omar Berrada has spoken publicly for the first time since June following Mauricio Pochettino's appointment.",
-     "kind": "news"
-    },
-    {
-     "title": "Manchester United CEO Omar Berrada breaks silence on Man City charges guilty verdict",
-     "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-ceo-omar-berrada-34941893",
-     "source": "Manchester Evening News",
-     "published": "2026-11-20T15:49:07+00:00",
-     "summary": "Man United's CEO Omar Berrada made the switch from the Etihad to Old Trafford two-and-a-half years ago.",
-     "kind": "news"
-    },
-    {
-     "title": "Man Utd fan criticism has gone too far at times - Berrada",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-20T16:55:11+00:00",
-     "summary": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
      "kind": "news"
     }
    ]
