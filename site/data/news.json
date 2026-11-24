@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-24T04:01:02.896586+00:00",
+ "updated": "2026-11-24T04:15:45.635103+00:00",
  "articles": [
+  {
+   "title": "Manchester United's board slammed for a decision that has 'blown up'",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-uniteds-board-slammed-decision-34953339",
+   "source": "Manchester Evening News",
+   "published": "2026-11-24T04:00:00+00:00",
+   "summary": "Man Utd suffered another defeat against Liverpool in the Premier League, leaving the club still in the relegation zone.",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34955171.ece/ALTERNATES/s98/3_GettyImages-2306364784.jpg",
+   "kind": "news"
+  },
   {
    "title": "Papers: Brentford defender emerges as Man Utd target as January budget revealed",
    "url": "https://www.skysports.com/football/news/12040/13615837/man-utd-transfer-news-brentford-defender-nathan-collins-emerges-as-january-target-paper-talk",
@@ -227,21 +236,21 @@
    "kind": "news"
   },
   {
-   "title": "Bruno Fernandes praises Manchester United teammates despite heavy defeat vs Liverpool",
-   "url": "https://www.manchestereveningnews.co.uk/sport/football/bruno-fernandes-praises-manchester-united-34950197",
-   "source": "Manchester Evening News",
-   "published": "2026-11-23T06:00:00+00:00",
-   "summary": "Bruno Fernandes spoke after Man Utd's heavy defeat to Liverpool in the Premier League on Sunday.",
-   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34951141.ece/ALTERNATES/s98/0_GettyImages-2305901304.jpg",
-   "kind": "news"
-  },
-  {
    "title": "Man United sale latest as upset Glazers waiting for 'big statement' after Liverpool defeat",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/glazers-man-united-sale-latest-34951359",
    "source": "Manchester Evening News",
    "published": "2026-11-23T06:00:00+00:00",
    "summary": "Manchester United fans are desperate to see the back of the Glazers - and a key update regarding a potential sale has come out in the last 48 hours",
    "image": null,
+   "kind": "news"
+  },
+  {
+   "title": "Bruno Fernandes praises Manchester United teammates despite heavy defeat vs Liverpool",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/bruno-fernandes-praises-manchester-united-34950197",
+   "source": "Manchester Evening News",
+   "published": "2026-11-23T06:00:00+00:00",
+   "summary": "Bruno Fernandes spoke after Man Utd's heavy defeat to Liverpool in the Premier League on Sunday.",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34951141.ece/ALTERNATES/s98/0_GettyImages-2305901304.jpg",
    "kind": "news"
   },
   {
