@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-24T05:01:00.529901+00:00",
+ "updated": "2026-11-24T05:15:44.075163+00:00",
  "articles": [
+  {
+   "title": "Manchester United outcast deserves his first start of the season",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-outcast-deserves-first-34952828",
+   "source": "Manchester Evening News",
+   "published": "2026-11-24T05:00:00+00:00",
+   "summary": "Man United return to action against Sporting Lisbon in the Champions League on Wednesday night.",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34953127.ece/ALTERNATES/s98/2_GettyImages-2306183819.jpg",
+   "kind": "news"
+  },
   {
    "title": "Manchester United's board slammed for a decision that has 'blown up'",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-uniteds-board-slammed-decision-34953339",
@@ -236,21 +245,21 @@
    "kind": "news"
   },
   {
-   "title": "Man United sale latest as upset Glazers waiting for 'big statement' after Liverpool defeat",
-   "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/glazers-man-united-sale-latest-34951359",
-   "source": "Manchester Evening News",
-   "published": "2026-11-23T06:00:00+00:00",
-   "summary": "Manchester United fans are desperate to see the back of the Glazers - and a key update regarding a potential sale has come out in the last 48 hours",
-   "image": null,
-   "kind": "news"
-  },
-  {
    "title": "Bruno Fernandes praises Manchester United teammates despite heavy defeat vs Liverpool",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/bruno-fernandes-praises-manchester-united-34950197",
    "source": "Manchester Evening News",
    "published": "2026-11-23T06:00:00+00:00",
    "summary": "Bruno Fernandes spoke after Man Utd's heavy defeat to Liverpool in the Premier League on Sunday.",
    "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34951141.ece/ALTERNATES/s98/0_GettyImages-2305901304.jpg",
+   "kind": "news"
+  },
+  {
+   "title": "Man United sale latest as upset Glazers waiting for 'big statement' after Liverpool defeat",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/glazers-man-united-sale-latest-34951359",
+   "source": "Manchester Evening News",
+   "published": "2026-11-23T06:00:00+00:00",
+   "summary": "Manchester United fans are desperate to see the back of the Glazers - and a key update regarding a potential sale has come out in the last 48 hours",
+   "image": null,
    "kind": "news"
   },
   {
