@@ -1,51 +1,51 @@
 {
- "generated": "2026-11-24T22:01:00.455911+00:00",
+ "generated": "2026-11-24T22:15:48.365451+00:00",
  "window_days": 7,
- "runs": 737,
+ "runs": 738,
  "since": "2026-11-17T22:26:51.648746+00:00",
- "last_run": "2026-11-24T22:01:00.279471+00:00",
+ "last_run": "2026-11-24T22:15:48.157557+00:00",
  "span_days": 7.0,
  "complete": true,
  "cadence_min": {
   "median": 14.7,
   "max": 86.1,
-  "runs_per_day": 105.6
+  "runs_per_day": 105.5
  },
  "sources": [
   {
    "name": "BBC Sport",
-   "runs": 737,
+   "runs": 738,
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 0.1,
+   "newest_article_hours": 0.2,
    "status": "ok"
   },
   {
    "name": "Manchester Evening News",
-   "runs": 737,
+   "runs": 738,
    "ok_pct": 99.7,
    "avg_items": 25,
-   "consecutive_failures": 0,
-   "newest_article_hours": 0.9,
-   "status": "ok"
-  },
-  {
-   "name": "Sky Sports",
-   "runs": 737,
-   "ok_pct": 100.0,
-   "avg_items": 1.9,
    "consecutive_failures": 0,
    "newest_article_hours": 1.2,
    "status": "ok"
   },
   {
+   "name": "Sky Sports",
+   "runs": 738,
+   "ok_pct": 100.0,
+   "avg_items": 1.9,
+   "consecutive_failures": 0,
+   "newest_article_hours": 0.4,
+   "status": "ok"
+  },
+  {
    "name": "The Guardian",
-   "runs": 737,
-   "ok_pct": 80.6,
+   "runs": 738,
+   "ok_pct": 80.5,
    "avg_items": 19.2,
-   "consecutive_failures": 142,
-   "newest_article_hours": 30.3,
+   "consecutive_failures": 143,
+   "newest_article_hours": 30.5,
    "status": "warn"
   }
  ],
@@ -57,32 +57,32 @@
   "2026-11-21": 13,
   "2026-11-22": 50,
   "2026-11-23": 30,
-  "2026-11-24": 30
+  "2026-11-24": 31
  },
  "articles": {
-  "total": 442,
+  "total": 443,
   "by_kind": {
+   "news": 356,
    "video": 61,
-   "news": 355,
    "live": 22,
    "poll": 3,
    "gallery": 1
   },
   "by_source": {
    "BBC Sport": 87,
+   "Sky Sports": 67,
    "Manchester Evening News": 240,
-   "Sky Sports": 66,
    "The Guardian": 49
   }
  },
  "issues": [
   {
    "level": "warn",
-   "msg": "The Guardian: failing for the last 142 runs."
+   "msg": "The Guardian: failing for the last 143 runs."
   },
   {
    "level": "warn",
-   "msg": "The Guardian: only 80.6% of runs succeeded."
+   "msg": "The Guardian: only 80.5% of runs succeeded."
   }
  ],
  "verdict": "attention"
