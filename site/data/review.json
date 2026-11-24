@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-24T22:15:48.365451+00:00",
+ "generated": "2026-11-24T22:30:59.606273+00:00",
  "window_days": 7,
  "runs": 738,
- "since": "2026-11-17T22:26:51.648746+00:00",
- "last_run": "2026-11-24T22:15:48.157557+00:00",
+ "since": "2026-11-17T23:23:27.186377+00:00",
+ "last_run": "2026-11-24T22:30:59.431419+00:00",
  "span_days": 7.0,
  "complete": true,
  "cadence_min": {
   "median": 14.7,
   "max": 86.1,
-  "runs_per_day": 105.5
+  "runs_per_day": 106.0
  },
  "sources": [
   {
@@ -18,7 +18,7 @@
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 0.2,
+   "newest_article_hours": 0.4,
    "status": "ok"
   },
   {
@@ -27,7 +27,7 @@
    "ok_pct": 99.7,
    "avg_items": 25,
    "consecutive_failures": 0,
-   "newest_article_hours": 1.2,
+   "newest_article_hours": 1.4,
    "status": "ok"
   },
   {
@@ -36,21 +36,21 @@
    "ok_pct": 100.0,
    "avg_items": 1.9,
    "consecutive_failures": 0,
-   "newest_article_hours": 0.4,
+   "newest_article_hours": 0.7,
    "status": "ok"
   },
   {
    "name": "The Guardian",
    "runs": 738,
-   "ok_pct": 80.5,
+   "ok_pct": 80.4,
    "avg_items": 19.2,
-   "consecutive_failures": 143,
-   "newest_article_hours": 30.5,
+   "consecutive_failures": 144,
+   "newest_article_hours": 30.8,
    "status": "warn"
   }
  ],
  "new_per_day": {
-  "2026-11-17": 2,
+  "2026-11-17": 1,
   "2026-11-18": 33,
   "2026-11-19": 31,
   "2026-11-20": 34,
@@ -78,11 +78,11 @@
  "issues": [
   {
    "level": "warn",
-   "msg": "The Guardian: failing for the last 143 runs."
+   "msg": "The Guardian: failing for the last 144 runs."
   },
   {
    "level": "warn",
-   "msg": "The Guardian: only 80.5% of runs succeeded."
+   "msg": "The Guardian: only 80.4% of runs succeeded."
   }
  ],
  "verdict": "attention"
