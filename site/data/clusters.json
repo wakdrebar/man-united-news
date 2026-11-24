@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T16:55:19.789499+00:00",
+ "generated": "2026-11-24T17:01:13.662970+00:00",
  "min_sources": 3,
  "clusters": [
   {
@@ -10,9 +10,9 @@
     "Sky Sports",
     "The Guardian"
    ],
-   "size": 7,
+   "size": 8,
    "first": "2026-11-23T11:19:43+00:00",
-   "last": "2026-11-24T16:16:58+00:00",
+   "last": "2026-11-24T17:00:32+00:00",
    "articles": [
     {
      "title": "Man United get unanimous Leny Yoro red card verdict after controversial VAR check",
@@ -63,10 +63,18 @@
      "kind": "news"
     },
     {
-     "title": "Yoro has red card overturned despite ref's chief Webb backing decision",
+     "title": "Howard Webb backs referee over Leny Yoro red card hours after Man United win appeal",
+     "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/liverpool-man-united-leny-yoro-34960574",
+     "source": "Manchester Evening News",
+     "published": "2026-11-24T17:00:00+00:00",
+     "summary": "Leny Yoro was sent off in controversial fashion during Manchester United's defeat to Liverpool at Anfield, and chief refereeing officer Howard Webb has given his verdict",
+     "kind": "news"
+    },
+    {
+     "title": "Yoro red card overturned, but refs' chief Webb backs decision",
      "url": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "published": "2026-11-24T16:16:58+00:00",
+     "published": "2026-11-24T17:00:32+00:00",
      "summary": "Manchester United defender Leny Yoro is clear to face Brentford on Saturday as his red card at Anfield is overturned.",
      "kind": "news"
     }
@@ -162,9 +170,9 @@
     "Sky Sports",
     "The Guardian"
    ],
-   "size": 9,
+   "size": 10,
    "first": "2026-11-19T18:45:56+00:00",
-   "last": "2026-11-20T15:08:51+00:00",
+   "last": "2026-11-20T15:11:17+00:00",
    "articles": [
     {
      "title": "Pochettino's first Man Utd training session filmed by drone operator",
@@ -236,6 +244,14 @@
      "source": "BBC Sport",
      "published": "2026-11-20T15:08:51+00:00",
      "summary": "Liverpool head coach Andoni Iraola says filming with drones around training grounds should be illegal.",
+     "kind": "news"
+    },
+    {
+     "title": "Man United release statement after Mauricio Pochettino training session secretly recorded",
+     "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-drone-mauricio-pochettino-34943473",
+     "source": "Manchester Evening News",
+     "published": "2026-11-20T15:11:17+00:00",
+     "summary": "Manchester United have made their stance clear following the incident",
      "kind": "news"
     }
    ]
