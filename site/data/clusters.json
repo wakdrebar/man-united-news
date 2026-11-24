@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:01:02.997971+00:00",
+ "generated": "2026-11-24T14:15:45.745649+00:00",
  "min_sources": 3,
  "clusters": [
   {
@@ -212,43 +212,6 @@
      "source": "BBC Sport",
      "published": "2026-11-20T15:08:51+00:00",
      "summary": "Liverpool head coach Andoni Iraola says filming with drones around training grounds should be illegal.",
-     "kind": "news"
-    }
-   ]
-  },
-  {
-   "id": "298141bb2e",
-   "sources": [
-    "BBC Sport",
-    "Sky Sports",
-    "The Guardian"
-   ],
-   "size": 3,
-   "first": "2026-11-17T14:09:19+00:00",
-   "last": "2026-11-17T17:13:23+00:00",
-   "articles": [
-    {
-     "title": "Rooney says he considered taking his own life at Man Utd",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-17T14:09:19+00:00",
-     "summary": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
-     "kind": "news"
-    },
-    {
-     "title": "Rooney contemplated suicide at ‘lowest point’ of Man Utd career",
-     "url": "https://www.skysports.com/football/news/12040/13613275/wayne-rooney-says-he-contemplated-suicide-during-lowest-point-of-manchester-united-career",
-     "source": "Sky Sports",
-     "published": "2026-11-17T14:36:00+00:00",
-     "summary": "Wayne Rooney has revealed there was a period in his Manchester United career where he contemplated suicide.",
-     "kind": "news"
-    },
-    {
-     "title": "Wayne Rooney says he contemplated taking own life during playing career",
-     "url": "https://www.theguardian.com/football/2026/nov/17/wayne-rooney-contemplated-taking-own-life-during-playing-career-mental-health",
-     "source": "The Guardian",
-     "published": "2026-11-17T17:13:23+00:00",
-     "summary": "Former England footballer opens up on mental health ‘It was probably the lowest point’ at Manchester United Wayne Rooney has revealed there was a period in his Manchester United career where he contemplated taking his own life. The former England striker said that, even as he flourished on the pitch, he was struggling with his mental health off it, despite being newly married and a dad to his elde",
      "kind": "news"
     }
    ]
