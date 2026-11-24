@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T15:15:50.149464+00:00",
+ "generated": "2026-11-24T15:30:58.166988+00:00",
  "min_sources": 3,
  "clusters": [
   {
@@ -10,9 +10,9 @@
     "Sky Sports",
     "The Guardian"
    ],
-   "size": 4,
+   "size": 6,
    "first": "2026-11-22T17:55:54+00:00",
-   "last": "2026-11-23T13:30:01+00:00",
+   "last": "2026-11-24T15:20:53+00:00",
    "articles": [
     {
      "title": "The red card that changed Liverpool-Man Utd: correct call?",
@@ -20,6 +20,14 @@
      "source": "BBC Sport",
      "published": "2026-11-22T17:55:54+00:00",
      "summary": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
+     "kind": "news"
+    },
+    {
+     "title": "Man United get unanimous Leny Yoro red card verdict after controversial VAR check",
+     "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-liverpool-yoro-red-34953023",
+     "source": "Manchester Evening News",
+     "published": "2026-11-23T11:19:43+00:00",
+     "summary": "Manchester United defender Leny Yoro was sent off after just eight minutes during his side's 4-0 defeat to Liverpool on Sunday in the Premier League",
      "kind": "news"
     },
     {
@@ -44,6 +52,14 @@
      "source": "The Guardian",
      "published": "2026-11-23T13:30:01+00:00",
      "summary": "Mauricio Pochettino said after game it was ‘never a foul’ ‘No one’s coming to save us,’ admits Kobbie Mainoo Manchester United intend to appeal against the red card Leny Yoro received in the eighth minute of the 4-0 defeat at Liverpool on Sunday. The defender was dismissed after fouling Alexander Isak outside the penalty area but Mauricio Pochettino believes the striker would not have reached the ",
+     "kind": "news"
+    },
+    {
+     "title": "Manchester United win Leny Yoro red card appeal after controversial sending off",
+     "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/breaking-manchester-united-win-leny-34959927",
+     "source": "Manchester Evening News",
+     "published": "2026-11-24T15:20:53+00:00",
+     "summary": "Man Utd defender Leny Yoro was sent off during the Reds' heavy defeat against Liverpool in the Premier League.",
      "kind": "news"
     }
    ]
