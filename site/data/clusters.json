@@ -1,27 +1,18 @@
 {
- "generated": "2026-11-24T15:45:52.316516+00:00",
+ "generated": "2026-11-24T15:52:02.766053+00:00",
  "min_sources": 3,
  "clusters": [
   {
-   "id": "65cced726e",
+   "id": "2a16a99f19",
    "sources": [
-    "BBC Sport",
     "Manchester Evening News",
     "Sky Sports",
     "The Guardian"
    ],
    "size": 6,
-   "first": "2026-11-22T17:55:54+00:00",
-   "last": "2026-11-24T15:20:53+00:00",
+   "first": "2026-11-23T11:19:43+00:00",
+   "last": "2026-11-24T15:34:00+00:00",
    "articles": [
-    {
-     "title": "The red card that changed Liverpool-Man Utd: correct call?",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-22T17:55:54+00:00",
-     "summary": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
-     "kind": "news"
-    },
     {
      "title": "Man United get unanimous Leny Yoro red card verdict after controversial VAR check",
      "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-liverpool-yoro-red-34953023",
@@ -60,6 +51,14 @@
      "source": "Manchester Evening News",
      "published": "2026-11-24T15:20:53+00:00",
      "summary": "Man Utd defender Leny Yoro was sent off during the Reds' heavy defeat against Liverpool in the Premier League.",
+     "kind": "news"
+    },
+    {
+     "title": "Yoro red card overturned after successful Man Utd appeal",
+     "url": "https://www.skysports.com/football/news/12040/13616021/leny-yoros-red-card-for-manchester-united-against-liverpool-overturned-following-successful-appeal",
+     "source": "Sky Sports",
+     "published": "2026-11-24T15:34:00+00:00",
+     "summary": "Leny Yoro's red card against Liverpool has been overturned following a successful appeal from Manchester United.",
      "kind": "news"
     }
    ]
