@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-25T22:01:02.308657+00:00",
+ "updated": "2026-11-25T22:15:45.536320+00:00",
  "articles": [
+  {
+   "title": "Sporting Lisbon vs Manchester United LIVE updates with VAR drama as Fernandes and Suarez score",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/sporting-vs-manchester-united-live-34966194",
+   "source": "Manchester Evening News",
+   "published": "2026-11-25T22:05:57+00:00",
+   "summary": "Man Utd are playing Sporting CP in the Champions League and we've got live updates from the game.",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34967186.ece/ALTERNATES/s98/0_GettyImages-2306291623.jpg",
+   "kind": "live"
+  },
   {
    "title": "Ashley Young: United should sell Bruno in January",
    "url": "https://www.bbc.co.uk/sport/videos/c6wy4eq1e395o?at_medium=RSS&at_campaign=rss",
@@ -11,13 +20,13 @@
    "kind": "video"
   },
   {
-   "title": "Sporting Lisbon vs Manchester United LIVE updates with VAR drama as Fernandes and Suarez score",
-   "url": "https://www.manchestereveningnews.co.uk/sport/football/sporting-vs-manchester-united-live-34966194",
+   "title": "Manchester United player ratings vs Sporting Lisbon as Bruno Fernandes stars but one 2/10",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-player-ratings-vs-34964570",
    "source": "Manchester Evening News",
-   "published": "2026-11-25T21:45:45+00:00",
-   "summary": "Man Utd are playing Sporting CP in the Champions League and we've got live updates from the game.",
+   "published": "2026-11-25T21:55:31+00:00",
+   "summary": "Mauricio Pochettino nearly claimed his first win as Man Utd head coach but his team threw away their lead late on against Sporting CP.",
    "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34967338.ece/ALTERNATES/s98/0_GettyImages-2306879065.jpg",
-   "kind": "live"
+   "kind": "news"
   },
   {
    "title": "Bruno Fernandes blows minds with astonishing Man United goal as staff told they’re in trouble",
@@ -173,21 +182,21 @@
    "kind": "news"
   },
   {
-   "title": "Champions League trip has exposed brutal new Manchester United reality",
-   "url": "https://www.manchestereveningnews.co.uk/sport/football/champions-league-trip-exposed-brutal-34959946",
-   "source": "Manchester Evening News",
-   "published": "2026-11-25T06:00:00+00:00",
-   "summary": "Man Utd are back in Lisbon to face Sporting for the first time in 19 years and it's a stark reminder of how far they have fallen.",
-   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34960438.ece/ALTERNATES/s98/0_GettyImages-76868956.jpg",
-   "kind": "news"
-  },
-  {
    "title": "Man United presented with transfer swap opportunity as Mauricio Pochettino 'causes concern'",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-transfer-news-pochettino-34961486",
    "source": "Manchester Evening News",
    "published": "2026-11-25T06:00:00+00:00",
    "summary": "Tightening up Manchester United's leaky defence is a key priorioty when the January transfer window opens",
    "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34961494.ece/ALTERNATES/s98/0_GettyImages-2306363914.jpg",
+   "kind": "news"
+  },
+  {
+   "title": "Champions League trip has exposed brutal new Manchester United reality",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/champions-league-trip-exposed-brutal-34959946",
+   "source": "Manchester Evening News",
+   "published": "2026-11-25T06:00:00+00:00",
+   "summary": "Man Utd are back in Lisbon to face Sporting for the first time in 19 years and it's a stark reminder of how far they have fallen.",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34960438.ece/ALTERNATES/s98/0_GettyImages-76868956.jpg",
    "kind": "news"
   },
   {
