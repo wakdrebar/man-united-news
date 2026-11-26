@@ -1,6 +1,6 @@
 {
- "run": "2026-11-26T14:30:57.923976+00:00",
- "new": 1,
+ "run": "2026-11-26T14:45:47.700016+00:00",
+ "new": 0,
  "sources": [
   {
    "source": "BBC Sport",
@@ -20,7 +20,7 @@
   {
    "source": "Sky Sports",
    "ok": true,
-   "items": 3
+   "items": 2
   }
  ]
 }
