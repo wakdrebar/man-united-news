@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-26T07:15:59.317140+00:00",
+ "generated": "2026-11-26T07:31:11.301840+00:00",
  "window_days": 7,
  "runs": 835,
- "since": "2026-11-19T07:30:48.710890+00:00",
- "last_run": "2026-11-26T07:15:59.122147+00:00",
+ "since": "2026-11-19T07:45:40.501590+00:00",
+ "last_run": "2026-11-26T07:31:10.949750+00:00",
  "span_days": 7.0,
  "complete": true,
  "cadence_min": {
@@ -18,7 +18,7 @@
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 6.9,
+   "newest_article_hours": 7.1,
    "status": "ok"
   },
   {
@@ -26,8 +26,8 @@
    "runs": 835,
    "ok_pct": 99.6,
    "avg_items": 25,
-   "consecutive_failures": 1,
-   "newest_article_hours": 1.3,
+   "consecutive_failures": 0,
+   "newest_article_hours": 0.3,
    "status": "ok"
   },
   {
@@ -36,16 +36,16 @@
    "ok_pct": 100.0,
    "avg_items": 2.1,
    "consecutive_failures": 0,
-   "newest_article_hours": 8.1,
+   "newest_article_hours": 8.4,
    "status": "ok"
   },
   {
    "name": "The Guardian",
    "runs": 835,
-   "ok_pct": 64.0,
+   "ok_pct": 63.8,
    "avg_items": 19.2,
-   "consecutive_failures": 301,
-   "newest_article_hours": 63.5,
+   "consecutive_failures": 302,
+   "newest_article_hours": 63.8,
    "status": "warn"
   }
  ],
@@ -57,19 +57,19 @@
   "2026-11-23": 30,
   "2026-11-24": 33,
   "2026-11-25": 30,
-  "2026-11-26": 10
+  "2026-11-26": 11
  },
  "articles": {
-  "total": 485,
+  "total": 486,
   "by_kind": {
-   "news": 388,
+   "news": 389,
    "video": 68,
    "poll": 4,
    "live": 24,
    "gallery": 1
   },
   "by_source": {
-   "Manchester Evening News": 267,
+   "Manchester Evening News": 268,
    "BBC Sport": 95,
    "Sky Sports": 74,
    "The Guardian": 49
@@ -78,11 +78,11 @@
  "issues": [
   {
    "level": "warn",
-   "msg": "The Guardian: failing for the last 301 runs."
+   "msg": "The Guardian: failing for the last 302 runs."
   },
   {
    "level": "warn",
-   "msg": "The Guardian: only 64.0% of runs succeeded."
+   "msg": "The Guardian: only 63.8% of runs succeeded."
   },
   {
    "level": "warn",

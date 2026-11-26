@@ -1,6 +1,6 @@
 {
- "run": "2026-11-26T07:15:59.122147+00:00",
- "new": 0,
+ "run": "2026-11-26T07:31:10.949750+00:00",
+ "new": 1,
  "sources": [
   {
    "source": "BBC Sport",
@@ -14,8 +14,8 @@
   },
   {
    "source": "Manchester Evening News",
-   "ok": false,
-   "error": "403 Client Error: Forbidden for url: https://www.manchestereveningnews.co.uk/all-about/manchester-united-fc?service=rss"
+   "ok": true,
+   "items": 25
   },
   {
    "source": "Sky Sports",
