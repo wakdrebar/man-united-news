@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T18:45:47.621155+00:00",
+ "generated": "2026-11-26T19:01:11.346080+00:00",
  "min_sources": 3,
  "clusters": [
   {
@@ -179,25 +179,16 @@
    ]
   },
   {
-   "id": "a40986f959",
+   "id": "05b2501a69",
    "sources": [
-    "BBC Sport",
     "Manchester Evening News",
     "Sky Sports",
     "The Guardian"
    ],
-   "size": 9,
-   "first": "2026-11-19T18:45:56+00:00",
+   "size": 8,
+   "first": "2026-11-19T20:18:32+00:00",
    "last": "2026-11-20T15:11:17+00:00",
    "articles": [
-    {
-     "title": "Pochettino's first Man Utd training session filmed by drone operator",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-19T18:45:56+00:00",
-     "summary": "Mauricio Pochettino's first Manchester United training session has been filmed by fan with a drone from outside the club's Carrington training ground.",
-     "kind": "news"
-    },
     {
      "title": "Drone user reveals why he secretly filmed Mauricio Pochettino's Man United training session",
      "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-drone-mauricio-pochettino-34939241",
