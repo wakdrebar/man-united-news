@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T13:15:44.063467+00:00",
+ "generated": "2026-11-26T13:30:56.933254+00:00",
  "min_sources": 3,
  "clusters": [
   {
@@ -186,9 +186,9 @@
     "Sky Sports",
     "The Guardian"
    ],
-   "size": 8,
+   "size": 9,
    "first": "2026-11-19T18:45:56+00:00",
-   "last": "2026-11-20T10:16:59+00:00",
+   "last": "2026-11-20T15:11:17+00:00",
    "articles": [
     {
      "title": "Pochettino's first Man Utd training session filmed by drone operator",
@@ -252,6 +252,14 @@
      "source": "Manchester Evening News",
      "published": "2026-11-20T10:16:59+00:00",
      "summary": "Mauricio Pochettino's first Manchester United training session was filmed by a drone operator and a message has been sent to the new boss",
+     "kind": "news"
+    },
+    {
+     "title": "Man United release statement after Mauricio Pochettino training session secretly recorded",
+     "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-drone-mauricio-pochettino-34943473",
+     "source": "Manchester Evening News",
+     "published": "2026-11-20T15:11:17+00:00",
+     "summary": "Manchester United have made their stance clear following the incident",
      "kind": "news"
     }
    ]
