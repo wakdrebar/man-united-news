@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-26T07:31:11.301840+00:00",
+ "generated": "2026-11-26T07:45:45.332422+00:00",
  "window_days": 7,
  "runs": 835,
- "since": "2026-11-19T07:45:40.501590+00:00",
- "last_run": "2026-11-26T07:31:10.949750+00:00",
+ "since": "2026-11-19T07:57:25.120050+00:00",
+ "last_run": "2026-11-26T07:45:45.147801+00:00",
  "span_days": 7.0,
  "complete": true,
  "cadence_min": {
   "median": 14.7,
   "max": 60.0,
-  "runs_per_day": 119.5
+  "runs_per_day": 119.4
  },
  "sources": [
   {
@@ -18,7 +18,7 @@
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 7.1,
+   "newest_article_hours": 7.3,
    "status": "ok"
   },
   {
@@ -27,7 +27,7 @@
    "ok_pct": 99.6,
    "avg_items": 25,
    "consecutive_failures": 0,
-   "newest_article_hours": 0.3,
+   "newest_article_hours": 0.1,
    "status": "ok"
   },
   {
@@ -36,40 +36,40 @@
    "ok_pct": 100.0,
    "avg_items": 2.1,
    "consecutive_failures": 0,
-   "newest_article_hours": 8.4,
+   "newest_article_hours": 8.6,
    "status": "ok"
   },
   {
    "name": "The Guardian",
    "runs": 835,
-   "ok_pct": 63.8,
+   "ok_pct": 63.7,
    "avg_items": 19.2,
-   "consecutive_failures": 302,
-   "newest_article_hours": 63.8,
+   "consecutive_failures": 303,
+   "newest_article_hours": 64.0,
    "status": "warn"
   }
  ],
  "new_per_day": {
-  "2026-11-19": 28,
+  "2026-11-19": 27,
   "2026-11-20": 34,
   "2026-11-21": 13,
   "2026-11-22": 50,
   "2026-11-23": 30,
   "2026-11-24": 33,
   "2026-11-25": 30,
-  "2026-11-26": 11
+  "2026-11-26": 12
  },
  "articles": {
-  "total": 486,
+  "total": 487,
   "by_kind": {
+   "live": 25,
    "news": 389,
    "video": 68,
    "poll": 4,
-   "live": 24,
    "gallery": 1
   },
   "by_source": {
-   "Manchester Evening News": 268,
+   "Manchester Evening News": 269,
    "BBC Sport": 95,
    "Sky Sports": 74,
    "The Guardian": 49
@@ -78,11 +78,11 @@
  "issues": [
   {
    "level": "warn",
-   "msg": "The Guardian: failing for the last 302 runs."
+   "msg": "The Guardian: failing for the last 303 runs."
   },
   {
    "level": "warn",
-   "msg": "The Guardian: only 63.8% of runs succeeded."
+   "msg": "The Guardian: only 63.7% of runs succeeded."
   },
   {
    "level": "warn",

@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-26T07:31:10.949750+00:00",
+ "updated": "2026-11-26T07:45:45.147801+00:00",
  "articles": [
+  {
+   "title": "Man United news LIVE: New Pochettino rule shocks as UEFA hit with immediate ban calls",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-news-live-pochettino-34967663",
+   "source": "Manchester Evening News",
+   "published": "2026-11-26T07:40:01+00:00",
+   "summary": "The latest Manchester United news after Mauricio Pochettino's side drew with Sporting CP in the Champions League and begin their preparations to face Brentford at the weekend",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34967638.ece/ALTERNATES/s98/0_GettyImages-2306311834.jpg",
+   "kind": "live"
+  },
   {
    "title": "Mauricio Pochettino introduces sixth rule change as Man United players leave pundits stunned",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-sporting-mauricio-pochettino-34967662",
@@ -8,15 +17,6 @@
    "published": "2026-11-26T07:16:11+00:00",
    "summary": "Manchester United were held to a 2-2 draw by Sporting CP in the Champions League on Wednesday evening, with Mauricio Pochettino making yet another rule change at the club",
    "image": "https://i2-prod.chroniclelive.co.uk/incoming/article34967661.ece/ALTERNATES/s98/0_Sporting-Lisbon-v-Manchester-United-UEFA-Champions-League-Estadio-Jose-Alvalade.jpg",
-   "kind": "news"
-  },
-  {
-   "title": "Bruno Fernandes warns Manchester United could be in a relegation battle",
-   "url": "https://www.manchestereveningnews.co.uk/sport/football/bruno-fernandes-warns-manchester-united-34966568",
-   "source": "Manchester Evening News",
-   "published": "2026-11-26T06:00:00+00:00",
-   "summary": "Man Utd return to Premier League action on Saturday following their 2-2 draw with Sporting Lisbon in the Champions League.",
-   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34967510.ece/ALTERNATES/s98/1_GettyImages-2306889665.jpg",
    "kind": "news"
   },
   {
@@ -29,12 +29,12 @@
    "kind": "news"
   },
   {
-   "title": "Mauricio Pochettino reaction vs Sporting Lisbon said it all after latest unforgivable mistake",
-   "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-reaction-vs-sporting-34966547",
+   "title": "Bruno Fernandes warns Manchester United could be in a relegation battle",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/bruno-fernandes-warns-manchester-united-34966568",
    "source": "Manchester Evening News",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "Man Utd drew 2-2 with Sporting Lisbon in the Champions League, a game in which they were let down by a referee again.",
-   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34967317.ece/ALTERNATES/s98/2_IMG_1061.jpg",
+   "published": "2026-11-26T06:00:00+00:00",
+   "summary": "Man Utd return to Premier League action on Saturday following their 2-2 draw with Sporting Lisbon in the Champions League.",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34967510.ece/ALTERNATES/s98/1_GettyImages-2306889665.jpg",
    "kind": "news"
   },
   {
@@ -44,6 +44,15 @@
    "published": "2026-11-26T05:00:00+00:00",
    "summary": "Manchester United were on the receiving end of some contentious decisions during their clash against Sporting.",
    "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34967556.ece/ALTERNATES/s98/0_GettyImages-2306302266.jpg",
+   "kind": "news"
+  },
+  {
+   "title": "Mauricio Pochettino reaction vs Sporting Lisbon said it all after latest unforgivable mistake",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-reaction-vs-sporting-34966547",
+   "source": "Manchester Evening News",
+   "published": "2026-11-26T05:00:00+00:00",
+   "summary": "Man Utd drew 2-2 with Sporting Lisbon in the Champions League, a game in which they were let down by a referee again.",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34967317.ece/ALTERNATES/s98/2_IMG_1061.jpg",
    "kind": "news"
   },
   {
