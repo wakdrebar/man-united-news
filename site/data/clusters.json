@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T12:45:46.361192+00:00",
+ "generated": "2026-11-26T13:01:03.993577+00:00",
  "min_sources": 3,
  "clusters": [
   {
@@ -10,9 +10,9 @@
     "Sky Sports",
     "The Guardian"
    ],
-   "size": 9,
+   "size": 10,
    "first": "2026-11-23T11:19:43+00:00",
-   "last": "2026-11-24T22:05:31+00:00",
+   "last": "2026-11-26T12:09:00+00:00",
    "articles": [
     {
      "title": "Man United get unanimous Leny Yoro red card verdict after controversial VAR check",
@@ -84,6 +84,14 @@
      "source": "BBC Sport",
      "published": "2026-11-24T22:05:31+00:00",
      "summary": "Manchester United and Mauricio Pochettino are furious at how Leny Yoro's red card has been handled by VAR John Brooks and referees' chief Howard Webb",
+     "kind": "news"
+    },
+    {
+     "title": "Yoro red card: Written reasons for overturned decision revealed",
+     "url": "https://www.skysports.com/football/news/12040/13616792/leny-yoro-red-card-written-reasons-why-manchester-united-defenders-red-card-at-liverpool-was-overturned-published-by-the-fa",
+     "source": "Sky Sports",
+     "published": "2026-11-26T12:09:00+00:00",
+     "summary": "The Football Association has released the written reasons why Leny Yoro's red card for Manchester United at Liverpool was overturned - even though refereeing body Pro Ref said the on-field decision was correct.",
      "kind": "news"
     }
    ]
@@ -178,9 +186,9 @@
     "Sky Sports",
     "The Guardian"
    ],
-   "size": 9,
+   "size": 8,
    "first": "2026-11-19T18:45:56+00:00",
-   "last": "2026-11-20T15:08:51+00:00",
+   "last": "2026-11-20T10:16:59+00:00",
    "articles": [
     {
      "title": "Pochettino's first Man Utd training session filmed by drone operator",
@@ -244,14 +252,6 @@
      "source": "Manchester Evening News",
      "published": "2026-11-20T10:16:59+00:00",
      "summary": "Mauricio Pochettino's first Manchester United training session was filmed by a drone operator and a message has been sent to the new boss",
-     "kind": "news"
-    },
-    {
-     "title": "Filming training by drones should be illegal - Iraola",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-20T15:08:51+00:00",
-     "summary": "Liverpool head coach Andoni Iraola says filming with drones around training grounds should be illegal.",
      "kind": "news"
     }
    ]
