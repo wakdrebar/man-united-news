@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-27T14:01:03.391787+00:00",
+ "updated": "2026-11-27T14:15:44.982350+00:00",
  "articles": [
+  {
+   "title": "Manchester United make major Bruno Fernandes contract decision",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-make-major-bruno-34976176",
+   "source": "Manchester Evening News",
+   "published": "2026-11-27T14:13:35+00:00",
+   "summary": "Bruno Fernandes' contract was due to expire in 2027 but the club have taken up the option to extend his deal by a year.",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34976197.ece/ALTERNATES/s98/0_GettyImages-2294568439.jpg",
+   "kind": "news"
+  },
+  {
+   "title": "Man United news LIVE: Bruno Fernandes replacement picked as Pochettino rant goes down well",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-news-live-pochettino-34967663",
+   "source": "Manchester Evening News",
+   "published": "2026-11-27T14:11:01+00:00",
+   "summary": "Latest Manchester United news as Mauricio Pochettino goes in search of his first win with the club against Brentford this weekend",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34976231.ece/ALTERNATES/s98/0_Untitled-1-4.jpg",
+   "kind": "live"
+  },
   {
    "title": "Mauricio Pochettino gives Bruno Fernandes update after missing Manchester United training",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-gives-bruno-fernandes-34973497",
@@ -9,15 +27,6 @@
    "summary": "Mauricio Pochettino confirmed the latest team news ahead of Man Utd's return to Premier League action on Saturday.",
    "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34973892.ece/ALTERNATES/s98/1_GettyImages-2306072910.jpg",
    "kind": "news"
-  },
-  {
-   "title": "Man United news LIVE: Bruno Fernandes replacement picked as Pochettino rant goes down well",
-   "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-news-live-pochettino-34967663",
-   "source": "Manchester Evening News",
-   "published": "2026-11-27T13:46:19+00:00",
-   "summary": "Latest Manchester United news as Mauricio Pochettino goes in search of his first win with the club against Brentford this weekend",
-   "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34973225.ece/ALTERNATES/s98/0_GettyImages-2306415961.jpg",
-   "kind": "live"
   },
   {
    "title": "Why Bruno Fernandes is missing from Manchester United training before Brentford",
@@ -191,21 +200,21 @@
    "kind": "news"
   },
   {
-   "title": "Bruno Fernandes warns Manchester United could be in a relegation battle",
-   "url": "https://www.manchestereveningnews.co.uk/sport/football/bruno-fernandes-warns-manchester-united-34966568",
-   "source": "Manchester Evening News",
-   "published": "2026-11-26T06:00:00+00:00",
-   "summary": "Man Utd return to Premier League action on Saturday following their 2-2 draw with Sporting Lisbon in the Champions League.",
-   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34967510.ece/ALTERNATES/s98/1_GettyImages-2306889665.jpg",
-   "kind": "news"
-  },
-  {
    "title": "Two Man United transfers could be cancelled in January as Pochettino takes urgent action",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-loans-mauricio-pochettino-34964509",
    "source": "Manchester Evening News",
    "published": "2026-11-26T06:00:00+00:00",
    "summary": "A pair of Manchester United players are waiting to see what Mauricio Pochettino has in store for them",
    "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34964542.ece/ALTERNATES/s98/0_01M87P4M7FZCKS3SJD66G4SNQA.jpg",
+   "kind": "news"
+  },
+  {
+   "title": "Bruno Fernandes warns Manchester United could be in a relegation battle",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/bruno-fernandes-warns-manchester-united-34966568",
+   "source": "Manchester Evening News",
+   "published": "2026-11-26T06:00:00+00:00",
+   "summary": "Man Utd return to Premier League action on Saturday following their 2-2 draw with Sporting Lisbon in the Champions League.",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34967510.ece/ALTERNATES/s98/1_GettyImages-2306889665.jpg",
    "kind": "news"
   },
   {
@@ -4491,15 +4500,6 @@
    "summary": "Would Michael Carrick still be at Man Utd if he wasn’t a club legend?",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cea1/live/95b31c00-dc25-11f1-b441-2b33b063138f.jpg",
    "kind": "video"
-  },
-  {
-   "title": "Bizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-08T21:50:05+00:00",
-   "summary": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbf2/live/f5d8ac10-dbb4-11f1-b35d-8ff000e4934a.jpg",
-   "kind": "news"
   }
  ]
 }
