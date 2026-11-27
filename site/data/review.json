@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-27T23:01:04.168863+00:00",
+ "generated": "2026-11-27T23:15:42.721775+00:00",
  "window_days": 7,
- "runs": 830,
- "since": "2026-11-20T23:01:20.579349+00:00",
- "last_run": "2026-11-27T23:01:03.958584+00:00",
+ "runs": 829,
+ "since": "2026-11-20T23:30:40.665986+00:00",
+ "last_run": "2026-11-27T23:15:42.615615+00:00",
  "span_days": 7.0,
  "complete": true,
  "cadence_min": {
@@ -14,38 +14,38 @@
  "sources": [
   {
    "name": "BBC Sport",
-   "runs": 830,
+   "runs": 829,
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 6.5,
+   "newest_article_hours": 6.8,
    "status": "ok"
   },
   {
    "name": "Manchester Evening News",
-   "runs": 830,
+   "runs": 829,
    "ok_pct": 99.6,
    "avg_items": 25,
    "consecutive_failures": 0,
-   "newest_article_hours": 1.2,
+   "newest_article_hours": 1.4,
    "status": "ok"
   },
   {
    "name": "Sky Sports",
-   "runs": 830,
+   "runs": 829,
    "ok_pct": 100.0,
    "avg_items": 1.9,
    "consecutive_failures": 0,
-   "newest_article_hours": 8.9,
+   "newest_article_hours": 9.1,
    "status": "warn"
   },
   {
    "name": "The Guardian",
-   "runs": 830,
-   "ok_pct": 40.6,
+   "runs": 829,
+   "ok_pct": 40.4,
    "avg_items": 19,
-   "consecutive_failures": 493,
-   "newest_article_hours": 103.3,
+   "consecutive_failures": 494,
+   "newest_article_hours": 103.5,
    "status": "warn"
   }
  ],
@@ -78,15 +78,15 @@
  "issues": [
   {
    "level": "warn",
-   "msg": "Sky Sports: fetched OK but returned 0 items in the last 9 runs (feed format change or filter too strict?)."
+   "msg": "Sky Sports: fetched OK but returned 0 items in the last 10 runs (feed format change or filter too strict?)."
   },
   {
    "level": "warn",
-   "msg": "The Guardian: failing for the last 493 runs."
+   "msg": "The Guardian: failing for the last 494 runs."
   },
   {
    "level": "warn",
-   "msg": "The Guardian: only 40.6% of runs succeeded."
+   "msg": "The Guardian: only 40.4% of runs succeeded."
   },
   {
    "level": "warn",
