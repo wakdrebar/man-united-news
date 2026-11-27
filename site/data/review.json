@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-27T21:45:46.703487+00:00",
+ "generated": "2026-11-27T22:01:03.496783+00:00",
  "window_days": 7,
  "runs": 830,
- "since": "2026-11-20T22:00:47.446236+00:00",
- "last_run": "2026-11-27T21:45:46.519982+00:00",
+ "since": "2026-11-20T22:12:35.077257+00:00",
+ "last_run": "2026-11-27T22:01:03.327203+00:00",
  "span_days": 7.0,
  "complete": true,
  "cadence_min": {
@@ -18,7 +18,7 @@
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 5.3,
+   "newest_article_hours": 5.5,
    "status": "ok"
   },
   {
@@ -27,7 +27,7 @@
    "ok_pct": 99.6,
    "avg_items": 25,
    "consecutive_failures": 0,
-   "newest_article_hours": 6.0,
+   "newest_article_hours": 0.2,
    "status": "ok"
   },
   {
@@ -36,16 +36,16 @@
    "ok_pct": 100.0,
    "avg_items": 1.9,
    "consecutive_failures": 0,
-   "newest_article_hours": 7.6,
+   "newest_article_hours": 7.9,
    "status": "ok"
   },
   {
    "name": "The Guardian",
    "runs": 830,
-   "ok_pct": 41.3,
+   "ok_pct": 41.2,
    "avg_items": 19,
-   "consecutive_failures": 487,
-   "newest_article_hours": 102.0,
+   "consecutive_failures": 488,
+   "newest_article_hours": 102.3,
    "status": "warn"
   }
  ],
@@ -57,32 +57,32 @@
   "2026-11-24": 33,
   "2026-11-25": 30,
   "2026-11-26": 26,
-  "2026-11-27": 12
+  "2026-11-27": 13
  },
  "articles": {
   "total": 500,
   "by_kind": {
+   "news": 401,
    "video": 69,
    "live": 24,
    "poll": 5,
-   "news": 401,
    "gallery": 1
   },
   "by_source": {
+   "Manchester Evening News": 286,
    "BBC Sport": 93,
-   "Manchester Evening News": 285,
    "Sky Sports": 78,
-   "The Guardian": 44
+   "The Guardian": 43
   }
  },
  "issues": [
   {
    "level": "warn",
-   "msg": "The Guardian: failing for the last 487 runs."
+   "msg": "The Guardian: failing for the last 488 runs."
   },
   {
    "level": "warn",
-   "msg": "The Guardian: only 41.3% of runs succeeded."
+   "msg": "The Guardian: only 41.2% of runs succeeded."
   },
   {
    "level": "warn",
