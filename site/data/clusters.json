@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T09:01:05.333329+00:00",
+ "generated": "2026-11-27T09:15:47.056548+00:00",
  "min_sources": 3,
  "clusters": [
   {
@@ -134,25 +134,17 @@
    ]
   },
   {
-   "id": "644c77b21d",
+   "id": "1f32a02412",
    "sources": [
     "BBC Sport",
     "Manchester Evening News",
     "Sky Sports",
     "The Guardian"
    ],
-   "size": 6,
-   "first": "2026-11-20T09:15:00+00:00",
+   "size": 5,
+   "first": "2026-11-20T09:21:57+00:00",
    "last": "2026-11-20T20:00:00+00:00",
    "articles": [
-    {
-     "title": "Drone operator takes down Man Utd footage and issues apology",
-     "url": "https://www.skysports.com/football/news/12040/13614271/manchester-united-drone-operator-removes-training-footage-of-mauricio-pochettinos-first-training-session-and-apologises",
-     "source": "Sky Sports",
-     "published": "2026-11-20T09:15:00+00:00",
-     "summary": "The drone operator who posted footage of Mauricio Pochettino's first training session at Manchester United on YouTube has said he has now removed the video.",
-     "kind": "news"
-    },
     {
      "title": "Four things spotted in drone footage of Mauricio Pochettino's first Man United training session",
      "url": "https://www.manchestereveningnews.co.uk/sport/football/four-things-spotted-drone-footage-34939991",
