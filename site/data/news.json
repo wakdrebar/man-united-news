@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-27T15:01:05.838751+00:00",
+ "updated": "2026-11-27T15:15:44.682136+00:00",
  "articles": [
+  {
+   "title": "Man Utd trigger Fernandes' one-year contract extension",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-27T15:08:41+00:00",
+   "summary": "Manchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b71f/live/40130840-ea6d-11f1-a094-5fdc692f3e33.jpg",
+   "kind": "news"
+  },
+  {
+   "title": "Mauricio Pochettino reveals whether he has spoken to Manchester United legend Sir Alex Ferguson",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-reveals-whether-spoken-34973516",
+   "source": "Manchester Evening News",
+   "published": "2026-11-27T14:59:56+00:00",
+   "summary": "Mauricio Pochettino first dined with legendary former Man United manager Sir Alex Ferguson over 10 years ago.",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34976516.ece/ALTERNATES/s98/1_GettyImages-160390150.jpg",
+   "kind": "news"
+  },
   {
    "title": "'I'm not nice' - Mauricio Pochettino warns his Manchester United players",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/im-not-nice-mauricio-pochettino-34973510",
@@ -8,15 +26,6 @@
    "published": "2026-11-27T14:48:43+00:00",
    "summary": "Mauricio Pochettino sent a warning to his Man Utd players during his press conference on Friday.",
    "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34976280.ece/ALTERNATES/s98/2_GettyImages-2306402375.jpg",
-   "kind": "news"
-  },
-  {
-   "title": "Man Utd trigger Fernandes' one-year contract extension",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-27T14:37:07+00:00",
-   "summary": "Manchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b71f/live/40130840-ea6d-11f1-a094-5fdc692f3e33.jpg",
    "kind": "news"
   },
   {
@@ -245,21 +254,21 @@
    "kind": "news"
   },
   {
-   "title": "Man United dealt huge double Champions League bonus blow as VAR controversy erupts",
-   "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-champions-league-var-34967534",
-   "source": "Manchester Evening News",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "Manchester United were on the receiving end of some contentious decisions during their clash against Sporting.",
-   "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34967556.ece/ALTERNATES/s98/0_GettyImages-2306302266.jpg",
-   "kind": "news"
-  },
-  {
    "title": "Mauricio Pochettino reaction vs Sporting Lisbon said it all after latest unforgivable mistake",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-reaction-vs-sporting-34966547",
    "source": "Manchester Evening News",
    "published": "2026-11-26T05:00:00+00:00",
    "summary": "Man Utd drew 2-2 with Sporting Lisbon in the Champions League, a game in which they were let down by a referee again.",
    "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34967317.ece/ALTERNATES/s98/2_IMG_1061.jpg",
+   "kind": "news"
+  },
+  {
+   "title": "Man United dealt huge double Champions League bonus blow as VAR controversy erupts",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-champions-league-var-34967534",
+   "source": "Manchester Evening News",
+   "published": "2026-11-26T05:00:00+00:00",
+   "summary": "Manchester United were on the receiving end of some contentious decisions during their clash against Sporting.",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34967556.ece/ALTERNATES/s98/0_GettyImages-2306302266.jpg",
    "kind": "news"
   },
   {
@@ -4491,15 +4500,6 @@
    "summary": "Manchester United's board are yet to make a final decision on Michael Carrick's future, despite the club's worst start to a campaign in 40 years.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/188e/live/21402470-dc67-11f1-8fe6-5becaee5408f.jpg",
    "kind": "news"
-  },
-  {
-   "title": "The six damning stats that made Carrick's job untenable",
-   "url": "https://www.skysports.com/watch/video/13610249/the-six-damning-statistics-that-made-michael-carricks-manchester-united-job-untenable",
-   "source": "Sky Sports",
-   "published": "2026-11-09T15:10:00+00:00",
-   "summary": "Sky Sports' Adam Binnie shares six stats that show Manchester United's troubles so far this season, and why Michael Carrick's job became untenable.",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-football-man-utd_7402287.jpg?20261109153030",
-   "kind": "video"
   }
  ]
 }
