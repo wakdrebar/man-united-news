@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-27T06:01:02.855918+00:00",
+ "updated": "2026-11-27T06:15:46.526779+00:00",
  "articles": [
+  {
+   "title": "The inside story of Mauricio Pochettino's first week at Man United - Message to players, 12-hour days and staff demands",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/inside-story-mauricio-pochettinos-first-34968967",
+   "source": "Manchester Evening News",
+   "published": "2026-11-27T06:00:00+00:00",
+   "summary": "Mauricio Pochettino has been in charge of Manchester United for just over a week and he has crammed plenty in during that time.",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34969511.ece/ALTERNATES/s98/0_premium-canvas-1795694841067.png",
+   "kind": "news"
+  },
   {
    "title": "'He's not a predictable character' - Working with Manchester United icon Eric Cantona",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/hes-not-predictable-character-working-34959149",
@@ -155,21 +164,21 @@
    "kind": "news"
   },
   {
-   "title": "Two Man United transfers could be cancelled in January as Pochettino takes urgent action",
-   "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-loans-mauricio-pochettino-34964509",
-   "source": "Manchester Evening News",
-   "published": "2026-11-26T06:00:00+00:00",
-   "summary": "A pair of Manchester United players are waiting to see what Mauricio Pochettino has in store for them",
-   "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34964542.ece/ALTERNATES/s98/0_01M87P4M7FZCKS3SJD66G4SNQA.jpg",
-   "kind": "news"
-  },
-  {
    "title": "Bruno Fernandes warns Manchester United could be in a relegation battle",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/bruno-fernandes-warns-manchester-united-34966568",
    "source": "Manchester Evening News",
    "published": "2026-11-26T06:00:00+00:00",
    "summary": "Man Utd return to Premier League action on Saturday following their 2-2 draw with Sporting Lisbon in the Champions League.",
    "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34967510.ece/ALTERNATES/s98/1_GettyImages-2306889665.jpg",
+   "kind": "news"
+  },
+  {
+   "title": "Two Man United transfers could be cancelled in January as Pochettino takes urgent action",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-loans-mauricio-pochettino-34964509",
+   "source": "Manchester Evening News",
+   "published": "2026-11-26T06:00:00+00:00",
+   "summary": "A pair of Manchester United players are waiting to see what Mauricio Pochettino has in store for them",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34964542.ece/ALTERNATES/s98/0_01M87P4M7FZCKS3SJD66G4SNQA.jpg",
    "kind": "news"
   },
   {
@@ -4491,15 +4500,6 @@
    "summary": "Where does Manchester United 4-4 Aston Villa rank among the Premier League's greatest games?",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/910b/live/15fd4900-da13-11f0-a8dc-93c15fe68710.jpg",
    "kind": "news"
-  },
-  {
-   "title": "Manchester United 4-4 Aston Villa: Premier League – as it happened",
-   "url": "https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live",
-   "source": "The Guardian",
-   "published": "2026-11-08T19:14:23+00:00",
-   "summary": "Manchester United came from two goals down – twice – to salvage a 4-4 draw with Aston Villa at Old Trafford Sunderland have clung on to beat Chelsea 1-0, which is a great result for them. And yet another embarrassment for Man United. They now have fewer wins than any other team in the Premier League – just the one, against Ipswich, back in August. A draw today will take them above Sunderland on go",
-   "image": "https://i.guim.co.uk/img/media/cc286f76b106b1405721751101d7dcbb6bca0f11/514_278_3239_2591/master/3239.jpg?width=140&quality=85&auto=format&fit=max&s=b11c98b6be45ab64b8fe46f8ed673b36",
-   "kind": "live"
   }
  ]
 }
