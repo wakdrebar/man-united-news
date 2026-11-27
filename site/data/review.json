@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-27T14:15:45.098775+00:00",
+ "generated": "2026-11-27T14:30:54.312351+00:00",
  "window_days": 7,
  "runs": 829,
- "since": "2026-11-20T14:30:48.413209+00:00",
- "last_run": "2026-11-27T14:15:44.982350+00:00",
+ "since": "2026-11-20T14:45:37.420686+00:00",
+ "last_run": "2026-11-27T14:30:54.167865+00:00",
  "span_days": 7.0,
  "complete": true,
  "cadence_min": {
@@ -18,7 +18,7 @@
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 23.3,
+   "newest_article_hours": 0.1,
    "status": "ok"
   },
   {
@@ -27,7 +27,7 @@
    "ok_pct": 99.6,
    "avg_items": 25,
    "consecutive_failures": 0,
-   "newest_article_hours": 0.0,
+   "newest_article_hours": 0.3,
    "status": "ok"
   },
   {
@@ -36,16 +36,16 @@
    "ok_pct": 100.0,
    "avg_items": 1.9,
    "consecutive_failures": 0,
-   "newest_article_hours": 5.3,
+   "newest_article_hours": 0.3,
    "status": "ok"
   },
   {
    "name": "The Guardian",
    "runs": 829,
-   "ok_pct": 45.8,
+   "ok_pct": 45.7,
    "avg_items": 19,
-   "consecutive_failures": 449,
-   "newest_article_hours": 94.5,
+   "consecutive_failures": 450,
+   "newest_article_hours": 94.8,
    "status": "warn"
   }
  ],
@@ -57,32 +57,32 @@
   "2026-11-24": 33,
   "2026-11-25": 30,
   "2026-11-26": 26,
-  "2026-11-27": 6
+  "2026-11-27": 8
  },
  "articles": {
   "total": 500,
   "by_kind": {
-   "news": 400,
+   "news": 401,
    "live": 24,
-   "video": 71,
+   "video": 70,
    "poll": 4,
    "gallery": 1
   },
   "by_source": {
+   "BBC Sport": 95,
    "Manchester Evening News": 282,
-   "Sky Sports": 78,
-   "BBC Sport": 96,
+   "Sky Sports": 79,
    "The Guardian": 44
   }
  },
  "issues": [
   {
    "level": "warn",
-   "msg": "The Guardian: failing for the last 449 runs."
+   "msg": "The Guardian: failing for the last 450 runs."
   },
   {
    "level": "warn",
-   "msg": "The Guardian: only 45.8% of runs succeeded."
+   "msg": "The Guardian: only 45.7% of runs succeeded."
   },
   {
    "level": "warn",
