@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-27T05:45:47.344384+00:00",
+ "generated": "2026-11-27T05:49:34.016377+00:00",
  "window_days": 7,
  "runs": 829,
- "since": "2026-11-20T05:48:01.742347+00:00",
- "last_run": "2026-11-27T05:45:46.980629+00:00",
+ "since": "2026-11-20T06:00:50.612568+00:00",
+ "last_run": "2026-11-27T05:49:33.873902+00:00",
  "span_days": 7.0,
  "complete": true,
  "cadence_min": {
   "median": 14.7,
   "max": 60.0,
-  "runs_per_day": 118.5
+  "runs_per_day": 118.6
  },
  "sources": [
   {
@@ -18,7 +18,7 @@
    "ok_pct": 100.0,
    "avg_items": 24,
    "consecutive_failures": 0,
-   "newest_article_hours": 14.8,
+   "newest_article_hours": 14.9,
    "status": "ok"
   },
   {
@@ -36,16 +36,16 @@
    "ok_pct": 100.0,
    "avg_items": 2.0,
    "consecutive_failures": 0,
-   "newest_article_hours": 17.4,
+   "newest_article_hours": 17.5,
    "status": "warn"
   },
   {
    "name": "The Guardian",
    "runs": 829,
-   "ok_pct": 50.9,
+   "ok_pct": 50.8,
    "avg_items": 19,
-   "consecutive_failures": 407,
-   "newest_article_hours": 86.0,
+   "consecutive_failures": 408,
+   "newest_article_hours": 86.1,
    "status": "warn"
   }
  ],
@@ -78,15 +78,15 @@
  "issues": [
   {
    "level": "warn",
-   "msg": "Sky Sports: fetched OK but returned 0 items in the last 37 runs (feed format change or filter too strict?)."
+   "msg": "Sky Sports: fetched OK but returned 0 items in the last 38 runs (feed format change or filter too strict?)."
   },
   {
    "level": "warn",
-   "msg": "The Guardian: failing for the last 407 runs."
+   "msg": "The Guardian: failing for the last 408 runs."
   },
   {
    "level": "warn",
-   "msg": "The Guardian: only 50.9% of runs succeeded."
+   "msg": "The Guardian: only 50.8% of runs succeeded."
   },
   {
    "level": "warn",
