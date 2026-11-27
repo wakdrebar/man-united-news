@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T09:45:45.687804+00:00",
+ "generated": "2026-11-27T10:01:00.246176+00:00",
  "min_sources": 3,
  "clusters": [
   {
@@ -174,43 +174,6 @@
      "source": "BBC Sport",
      "published": "2026-11-20T16:55:11+00:00",
      "summary": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
-     "kind": "news"
-    }
-   ]
-  },
-  {
-   "id": "858a603e90",
-   "sources": [
-    "BBC Sport",
-    "Manchester Evening News",
-    "The Guardian"
-   ],
-   "size": 3,
-   "first": "2026-11-20T10:00:04+00:00",
-   "last": "2026-11-20T15:08:51+00:00",
-   "articles": [
-    {
-     "title": "Drone operator sorry for filming Pochettino’s first Manchester United training session",
-     "url": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-drone",
-     "source": "The Guardian",
-     "published": "2026-11-20T10:00:04+00:00",
-     "summary": "Operator removes video from his channel ‘I fully accept it was unethical,’ he says A drone operator who filmed Mauricio Pochettino’s first ⁠Manchester United training ⁠session on Thursday has apologised for what he called a “total error of judgment” and removed ⁠the footage from ⁠his ​YouTube channel. The footage was uploaded online under the username “CC OVERVIEW”. In a statement posted on his Yo",
-     "kind": "news"
-    },
-    {
-     "title": "Drone pilot sends Mauricio Pochettino message after secretly filming Man United training",
-     "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-drone-mauricio-pochettino-34940590",
-     "source": "Manchester Evening News",
-     "published": "2026-11-20T10:16:59+00:00",
-     "summary": "Mauricio Pochettino's first Manchester United training session was filmed by a drone operator and a message has been sent to the new boss",
-     "kind": "news"
-    },
-    {
-     "title": "Filming training by drones should be illegal - Iraola",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-20T15:08:51+00:00",
-     "summary": "Liverpool head coach Andoni Iraola says filming with drones around training grounds should be illegal.",
      "kind": "news"
     }
    ]
