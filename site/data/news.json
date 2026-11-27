@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-27T05:01:03.699533+00:00",
+ "updated": "2026-11-27T05:15:48.149514+00:00",
  "articles": [
+  {
+   "title": "'He's not a predictable character' - Working with Manchester United icon Eric Cantona",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/hes-not-predictable-character-working-34959149",
+   "source": "Manchester Evening News",
+   "published": "2026-11-27T05:00:00+00:00",
+   "summary": "Cantona: Flower of Evil, an intimate portrait of the legendary former Man Utd striker, is set to be released in two weeks.",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34960434.ece/ALTERNATES/s98/3452_300_OFS_Cantona_Ferguson_1_950224.jpg",
+   "kind": "news"
+  },
   {
    "title": "Man United team up with Liverpool to prepare lucrative legal claim against Man City",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-team-up-liverpool-34973008",
@@ -164,21 +173,21 @@
    "kind": "news"
   },
   {
-   "title": "Mauricio Pochettino reaction vs Sporting Lisbon said it all after latest unforgivable mistake",
-   "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-reaction-vs-sporting-34966547",
-   "source": "Manchester Evening News",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "Man Utd drew 2-2 with Sporting Lisbon in the Champions League, a game in which they were let down by a referee again.",
-   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34967317.ece/ALTERNATES/s98/2_IMG_1061.jpg",
-   "kind": "news"
-  },
-  {
    "title": "Man United dealt huge double Champions League bonus blow as VAR controversy erupts",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-champions-league-var-34967534",
    "source": "Manchester Evening News",
    "published": "2026-11-26T05:00:00+00:00",
    "summary": "Manchester United were on the receiving end of some contentious decisions during their clash against Sporting.",
    "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34967556.ece/ALTERNATES/s98/0_GettyImages-2306302266.jpg",
+   "kind": "news"
+  },
+  {
+   "title": "Mauricio Pochettino reaction vs Sporting Lisbon said it all after latest unforgivable mistake",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-reaction-vs-sporting-34966547",
+   "source": "Manchester Evening News",
+   "published": "2026-11-26T05:00:00+00:00",
+   "summary": "Man Utd drew 2-2 with Sporting Lisbon in the Champions League, a game in which they were let down by a referee again.",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34967317.ece/ALTERNATES/s98/2_IMG_1061.jpg",
    "kind": "news"
   },
   {
@@ -4491,15 +4500,6 @@
    "summary": "Manchester United came from two goals down – twice – to salvage a 4-4 draw with Aston Villa at Old Trafford Sunderland have clung on to beat Chelsea 1-0, which is a great result for them. And yet another embarrassment for Man United. They now have fewer wins than any other team in the Premier League – just the one, against Ipswich, back in August. A draw today will take them above Sunderland on go",
    "image": "https://i.guim.co.uk/img/media/cc286f76b106b1405721751101d7dcbb6bca0f11/514_278_3239_2591/master/3239.jpg?width=140&quality=85&auto=format&fit=max&s=b11c98b6be45ab64b8fe46f8ed673b36",
    "kind": "live"
-  },
-  {
-   "title": "Dorgu rescues point for Manchester United in eight-goal thriller against Aston Villa",
-   "url": "https://www.theguardian.com/football/2026/nov/08/manchester-united-aston-villa-premier-league-match-report",
-   "source": "The Guardian",
-   "published": "2026-11-08T18:54:23+00:00",
-   "summary": "Does this late, late comeback draw keep Michael Carrick in his job? He urged United to back up their breathless Roma comeback victory on Tuesday by building momentum and they did, kind of, by avoiding defeat. Patrick Dorgu’s 96th-minute equaliser went off his head and in. Senne Lammens, up for the corner, knocked into his opposite number, Zion Suzuki, but no foul was given – to Unai Emery’s disqui",
-   "image": "https://i.guim.co.uk/img/media/0aa088aa46fa510182e5835b6b1d067143e90c4f/325_0_3707_2967/master/3707.jpg?width=140&quality=85&auto=format&fit=max&s=aade0e16a816760ff2cb4902ebca9c02",
-   "kind": "news"
   }
  ]
 }
