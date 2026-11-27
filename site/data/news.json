@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-27T15:15:44.682136+00:00",
+ "updated": "2026-11-27T15:30:57.961395+00:00",
  "articles": [
+  {
+   "title": "Poll: Should Manchester United sell Bruno Fernandes in the summer?",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/poll-should-manchester-united-sell-34976455",
+   "source": "Manchester Evening News",
+   "published": "2026-11-27T15:16:20+00:00",
+   "summary": "Bruno Fernandes has extended his stay at Man United until 2028 but should the club look to cash in on him next summer?",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34976456.ece/ALTERNATES/s98/0_GettyImages-2293355116.jpg",
+   "kind": "poll"
+  },
   {
    "title": "Man Utd trigger Fernandes' one-year contract extension",
    "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
@@ -52,7 +61,7 @@
    "source": "Sky Sports",
    "published": "2026-11-27T14:10:00+00:00",
    "summary": "Manchester United have triggered their 12-month option to extend captain Bruno Fernandes' contract.",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-bruno-fernandes-manchester-united_7412899.jpg?20261121194818",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-bruno-fernandes-manchester-united_7417939.jpg?20261127151323",
    "kind": "news"
   },
   {
@@ -254,21 +263,21 @@
    "kind": "news"
   },
   {
-   "title": "Mauricio Pochettino reaction vs Sporting Lisbon said it all after latest unforgivable mistake",
-   "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-reaction-vs-sporting-34966547",
-   "source": "Manchester Evening News",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "Man Utd drew 2-2 with Sporting Lisbon in the Champions League, a game in which they were let down by a referee again.",
-   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34967317.ece/ALTERNATES/s98/2_IMG_1061.jpg",
-   "kind": "news"
-  },
-  {
    "title": "Man United dealt huge double Champions League bonus blow as VAR controversy erupts",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-champions-league-var-34967534",
    "source": "Manchester Evening News",
    "published": "2026-11-26T05:00:00+00:00",
    "summary": "Manchester United were on the receiving end of some contentious decisions during their clash against Sporting.",
    "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34967556.ece/ALTERNATES/s98/0_GettyImages-2306302266.jpg",
+   "kind": "news"
+  },
+  {
+   "title": "Mauricio Pochettino reaction vs Sporting Lisbon said it all after latest unforgivable mistake",
+   "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-reaction-vs-sporting-34966547",
+   "source": "Manchester Evening News",
+   "published": "2026-11-26T05:00:00+00:00",
+   "summary": "Man Utd drew 2-2 with Sporting Lisbon in the Champions League, a game in which they were let down by a referee again.",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article34967317.ece/ALTERNATES/s98/2_IMG_1061.jpg",
    "kind": "news"
   },
   {
@@ -4491,15 +4500,6 @@
    "summary": "Ali Bruce-Ball reacts to Patrick Dorgu's late Manchester United equaliser to give them a point against Aston Villa.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6033/live/1bf05fc0-dc6d-11f1-b441-2b33b063138f.jpg",
    "kind": "video"
-  },
-  {
-   "title": "Man Utd yet to make decision on Carrick's future",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1g7z2mdgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-09T17:49:05+00:00",
-   "summary": "Manchester United's board are yet to make a final decision on Michael Carrick's future, despite the club's worst start to a campaign in 40 years.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/188e/live/21402470-dc67-11f1-8fe6-5becaee5408f.jpg",
-   "kind": "news"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T15:15:44.779628+00:00",
+ "generated": "2026-11-27T15:30:58.078856+00:00",
  "min_sources": 3,
  "clusters": [
   {
@@ -47,9 +47,9 @@
     "Sky Sports",
     "The Guardian"
    ],
-   "size": 10,
+   "size": 9,
    "first": "2026-11-23T11:19:43+00:00",
-   "last": "2026-11-26T12:09:00+00:00",
+   "last": "2026-11-24T22:05:31+00:00",
    "articles": [
     {
      "title": "Man United get unanimous Leny Yoro red card verdict after controversial VAR check",
@@ -121,14 +121,6 @@
      "source": "BBC Sport",
      "published": "2026-11-24T22:05:31+00:00",
      "summary": "Manchester United and Mauricio Pochettino are furious at how Leny Yoro's red card has been handled by VAR John Brooks and referees' chief Howard Webb",
-     "kind": "news"
-    },
-    {
-     "title": "Yoro red card: Written reasons for overturned decision revealed",
-     "url": "https://www.skysports.com/football/news/12040/13616792/leny-yoro-red-card-written-reasons-why-manchester-united-defenders-red-card-at-liverpool-was-overturned-published-by-the-fa",
-     "source": "Sky Sports",
-     "published": "2026-11-26T12:09:00+00:00",
-     "summary": "The Football Association has released the written reasons why Leny Yoro's red card for Manchester United at Liverpool was overturned - even though refereeing body Pro Ref said the on-field decision was correct.",
      "kind": "news"
     }
    ]
