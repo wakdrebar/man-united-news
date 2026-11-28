@@ -1,14 +1,32 @@
 {
- "updated": "2026-11-28T14:15:48.732325+00:00",
+ "updated": "2026-11-28T14:26:01.286506+00:00",
  "articles": [
   {
    "title": "Manchester United vs Brentford LIVE team news as Bruno Fernandes starts but Mbeumo on bench",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-vs-brentford-live-34975301",
    "source": "Manchester Evening News",
-   "published": "2026-11-28T13:52:41+00:00",
+   "published": "2026-11-28T14:20:04+00:00",
    "summary": "Man United play Brentford in the Premier League today as Mauricio Pochettino goes in search of his first win as Reds boss.",
-   "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34980223.ece/ALTERNATES/s98/0_Untitled.jpg",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34980603.ece/ALTERNATES/s98/0_GettyImages-2295614954.jpg",
    "kind": "live"
+  },
+  {
+   "title": "'We need their support' - Pochettino calls on fans to play their part in first game at Old Trafford",
+   "url": "https://www.skysports.com/watch/video/13617509/manchester-utd-v-brentford-mauricio-pochettino-calls-on-fans-to-play-their-part-in-first-game-at-old-trafford",
+   "source": "Sky Sports",
+   "published": "2026-11-28T14:18:00+00:00",
+   "summary": "Mauricio Pochettino has called on the fans at Old Trafford to play their part in his first Premier League game in charge at home.",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-manchester-united_7418599.jpg?20261128142338",
+   "kind": "video"
+  },
+  {
+   "title": "Manchester Utd vs Brentford: Team news from Old Trafford",
+   "url": "https://www.skysports.com/watch/video/13617506/manchester-utd-vs-brentford-team-news-from-old-trafford",
+   "source": "Sky Sports",
+   "published": "2026-11-28T14:12:00+00:00",
+   "summary": "Get the full team news from Old Trafford ahead of Manchester Utd vs Brentford.",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-manchester-utd-pochettino_7418590.jpg?20261128141715",
+   "kind": "video"
   },
   {
    "title": "Pochettino arrives at Old Trafford for first home game in charge of Man Utd",
@@ -4482,24 +4500,6 @@
    "summary": "Defender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League campaign.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46a0/live/d5773580-ddb3-11f1-93e1-3b657b665bcf.jpg",
    "kind": "video"
-  },
-  {
-   "title": "Who makes the decisions at Manchester United?",
-   "url": "https://www.bbc.co.uk/sport/football/videos/c6y939708zxno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-11T08:26:01+00:00",
-   "summary": "BBC Sport explains who makes the key football and business decisions at Manchester United.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4471/live/7d21ccf0-dd2d-11f1-93e1-3b657b665bcf.jpg",
-   "kind": "video"
-  },
-  {
-   "title": "Firing a manager is often more about maintaining the illusion of control | Leander Schaerlaeckens",
-   "url": "https://www.theguardian.com/football/2026/nov/10/michael-carrick-firing-managers-premier-league",
-   "source": "The Guardian",
-   "published": "2026-11-10T19:03:04+00:00",
-   "summary": "In an era of advanced analytics, deciding when to move on from a manager still seems to come down to vibes rather than logic He just had to go. His position had become untenable. Leander Schaerlaeckens is the author of The Long Game: U.S. Men’s Soccer and Its Savage, Four-Decade Journey to the Top, or Thereabouts, which is out now . He teaches at Marist University. Continue reading...",
-   "image": "https://i.guim.co.uk/img/media/f5fc5e216788663c63a4855eae3efd684e3f1755/205_0_1435_1148/master/1435.jpg?width=140&quality=85&auto=format&fit=max&s=472682f084253969868dfa7463a1c7bc",
-   "kind": "news"
   }
  ]
 }
