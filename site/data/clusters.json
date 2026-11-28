@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T10:15:46.745467+00:00",
+ "generated": "2026-11-28T10:31:00.723923+00:00",
  "min_sources": 3,
  "clusters": [
   {
@@ -11,7 +11,7 @@
    ],
    "size": 3,
    "first": "2026-11-27T14:10:00+00:00",
-   "last": "2026-11-27T15:08:41+00:00",
+   "last": "2026-11-28T10:28:36+00:00",
    "articles": [
     {
      "title": "Man Utd activate Fernandes contract extension clause",
@@ -33,7 +33,7 @@
      "title": "Man Utd trigger Fernandes' one-year contract extension",
      "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "published": "2026-11-27T15:08:41+00:00",
+     "published": "2026-11-28T10:28:36+00:00",
      "summary": "Manchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028.",
      "kind": "news"
     }
