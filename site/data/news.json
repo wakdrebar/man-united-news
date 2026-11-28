@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-28T13:01:03.699140+00:00",
+ "updated": "2026-11-28T13:15:47.388949+00:00",
  "articles": [
+  {
+   "title": "Man Utd vs Brentford team news LIVE!",
+   "url": "https://www.skysports.com/football/manchester-united-vs-brentford/live/559561",
+   "source": "Sky Sports",
+   "published": "2026-11-28T13:00:00+00:00",
+   "summary": "",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-mauricio-pochettino_7413802.jpg?20261122181812",
+   "kind": "live"
+  },
   {
    "title": "Manchester United vs Brentford LIVE Bruno Fernandes latest plus early team news and how to follow",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-vs-brentford-live-34975301",
@@ -4490,15 +4499,6 @@
    "published": "2026-11-10T18:12:02+00:00",
    "summary": "Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2726/live/abc28950-dd19-11f1-93e1-3b657b665bcf.jpg",
-   "kind": "news"
-  },
-  {
-   "title": "Mauricio Pochettino interested in leaving USMNT job for Manchester United",
-   "url": "https://www.theguardian.com/football/2026/nov/10/mauricio-pochettino-interested-manchester-united-usmnt-release-clause",
-   "source": "The Guardian",
-   "published": "2026-11-10T17:40:40+00:00",
-   "summary": "Coach’s contract has release clause of about $10m United expected to sack Michael Carrick after awful start US men’s national team head coach Mauricio Pochettino is interested in a move to Manchester United, multiple sources told the Guardian, with those same sources characterizing the interest as mutual. United are expected to sack their head coach, Michael Carrick, after a disastrous start to th",
-   "image": "https://i.guim.co.uk/img/media/3cc99fc110813bdce8e26eca468776c682bebc79/241_0_3848_3079/master/3848.jpg?width=140&quality=85&auto=format&fit=max&s=cb1644159c61e6d1bce7a9d58421d3e9",
    "kind": "news"
   }
  ]
